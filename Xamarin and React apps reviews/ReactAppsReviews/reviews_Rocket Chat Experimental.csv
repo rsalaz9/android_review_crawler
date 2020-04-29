@@ -1,0 +1,46 @@
+index,author_name,review_date,reviewer_ratings,review_body
+0,Patrick Olender,"February 24, 2020",3," It works okayish, I can live with it. But many features are missing, that I know from Slack, and sometimes the display of content is glitched and cuts into other content. Furthermore, the emojis of reactions are not always displayed correctly, instead I have an empty box."
+1,Vincent Vermilya,"February 12, 2020",3, Still slow but not unbearably slow anymore. If an update breaks something at least this gets updated more often than stable. I still anticipate having to use force stop and reset cache if it locks up again but maybe I'll be proven wrong.
+2,Sea Ndeveci,"March 8, 2020",1," After the recent update, I lost all my channels and when I click on the notifications I get an empty screen. I have resorted to using the browser version. Emojis don't work unless I wipe my cache everytime I want to use one."
+3,Shehzad Mohyuddin,"April 2, 2020",4," Cannot get push notifications to work on mobile. If that can be done, i'd rate to 5 star. Great effort overall. Please keep it up"
+4,Salatiel Filho,"February 14, 2020",4," Getting better. There are still several bugs related to notifications and syncing, but it has improved a lot recently."
+5,HeeChan Kang,"March 10, 2020",5, Good to see constant improvement. Please keep the good work up - we use Rocket.Chat at our workplace a lot and the UI/UX of this app really matters a lot... :)
+6,Terry Paton,"March 12, 2020",5," Super smooth to use, recommend it for personal and commercial use."
+7,Jędrzej Mróz,"March 6, 2020",1," Unstable, really bad syncing with other devices, crashing, lagging, not reliable app."
+8,Matthew Hardwick,"February 27, 2020",3, GIFs via Google Keyboard appear to have been disabled. I can't post them anymore. Please bring them back!
+9,Mirek Kratochvil,"March 26, 2020",5, Great selfhosted alternative for Slack. Works perfectly.
+10,Sony Xperia Z3,"March 18, 2020",5," Great app, quick and useful feedback from devs"
+11,Jace Walker,"March 26, 2020",1, Notifications are extremely delayed in the official app and this one
+12,Alessandro Belli,"March 20, 2020",1," Not working with our server, but with browser or iOS yes."
+13,Hansen W,"December 27, 2019",3," Hi after the update, I can no longer log into my team server. When I log in, it's just a black screen. I tried clearing the app data too but it didn't help. Edit: Thanks, it seems to be working again."
+14,Richard Iversen,"December 4, 2019",4, I really like the application. It connects fine. i do wish image attachments would pick up the name of the original file or at least extension .
+15,Jonathan Smit,"December 27, 2019",4, Latest release thankfully fixes the messaging bugs present in the prior version and provides a much better messaging experience which is the core of the app.
+16,Conspiracy Eyes,"November 17, 2019",4," Nice and fast, occasionally crashes, but still good."
+17,Jacob Fink,"March 28, 2020",5, A wonderful way to access my personal Rocket Chat server!
+18,HOÀI ngduchoai9,"November 7, 2019",5, I don't know but i can not use it with my URL. it said: the url you entered is invalid. I installed on both apps from rocket.chat Can you help resolve my issue?
+19,Krutik Shah,"March 7, 2019",2," constantly crashes. literally non-stop, every like 10 seconds after opening the app. it's quite annoying. only reason i give it an extra star instead of 1 star because it's better than the other rocketchat app in the sense that the fundamental functions of the app work; in experimental, i don't get ...Full Reviewconstantly crashes. literally non-stop, every like 10 seconds after opening the app. it's quite annoying. only reason i give it an extra star instead of 1 star because it's better than the other rocketchat app in the sense that the fundamental functions of the app work; in experimental, i don't get duplicated messages, some posts just don't show up on the other app for whatever reason. however videos uploaded to the server don't work on here but it does on the other app."
+20,Uros Gazvoda,"November 10, 2018",5," It's good to see a new version of Rocket.chat, however there is still much to do. It doesn't sync old messages and you cannot search. Sometimes the app is freezing. Good luck and thanks for improving Rocket.chat mobile experience."
+21,123 456,"September 4, 2019",1," Won't even connect to the server: ""Oops! The URL you entered is invalid. Check it and try again, please"". Of course the URL is correct and works in your other version that can't update yourself without reinstalling."
+22,Трезвый Дворник,"October 24, 2019",2," This app is Very lagging. The other app is not working at all. Created a shortcut from google chrome - no notifications, but, at least, the rooms and chats updates normally. with the app have to wait 15-30 seconds in every room."
+23,Deon Stroebel,"July 16, 2019",2," I wish they would focus on stability and making the app work instead of adding features. Just posting a message could be difficult with multiple posts showing up. cant add a file only picture and now it wont keep layout(unread, group etc)."
+24,James Moffat,"November 19, 2018",5," Great improvement over the current Rocket.Chat app, I would like to see a dark theme/night mode and voice chats/calls. Keep up the great work!"
+25,Artem,"August 23, 2019",4," Does not connect over HTTPS to the server with the self-signed certificate (unlike the browsers) showing the error ""The URL you entered is invalid"" and works fine with that server over HTTP."
+26,Ben Schofield,"June 9, 2019",2, Won't even let me log in. No error message or similar. Regular Rocket.Chat app logs in fine but doesn't see messages in some channels. Hopeless.
+27,András Tóth,"March 14, 2019",5," ""v0.74.3 server crash until I try to login with this client"" -> After 1.10.0 update, this works fine. Thanks"
+28,Jibu Chacko,"May 8, 2019",1, No option to show only unread chats and channels. Becomes difficult when you have so many contacts and many channels
+29,Mike L,"January 4, 2020",1, Does not work with all servers. Version too old
+30,Aba Mi,"October 9, 2019",4, Looks & feels a bit better. But still rough around the edges.
+31,mike docey,"May 6, 2019",3, app crashes when click on uploaded image. sometime image opens. sometimes app crashes...weird bug
+32,John Fischer,"January 31, 2019",4," While it's lacking some desktop features, this is working very well."
+33,Duke SPEED,"September 17, 2019",5, Its the only version that works perfectly on a Samsung A5
+34,Kleoz Nikon,"February 12, 2019",1, Been few weeks still no audio/video.
+35,rn n,"January 9, 2020",5, way faster compared to the prior version
+36,Raul Aldaz,"March 15, 2019",1, still dont work LDAP auth in March 14 version
+37,Zoran Davidovac,"April 13, 2019",1, does not work after entering credentials
+38,Bảo Anh Lê,"February 10, 2019",2, cannot render gify
+39,Marius Davițoiu,"October 11, 2019",5, Best rocket 🚀 on the market.
+40,Антон Печорин,"March 14, 2020",3," Зависает, если открывать приложение через push уведомления"
+41,Guido Hornig,"February 11, 2020",4," Für die tägliche Arbeit unverzichtbar. Könnte besser zeigen, ob alles aktuell ist."
+42,time travel agent,"January 22, 2020",5, Great project
+43,Jay Dee,"April 8, 2019",2, code-examples -> end-quotes doesnt work if you use it over more lines. Own emojies are trapped. No Administration.
+44,Tarcísio Miranda,"July 28, 2019",5, App muito bom. uma app de teste muito confiável e funcional

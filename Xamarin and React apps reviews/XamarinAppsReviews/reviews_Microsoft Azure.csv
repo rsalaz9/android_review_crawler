@@ -1,0 +1,572 @@
+index,author_name,review_date,reviewer_ratings,review_body
+0,Suvam Mukherjee,"April 21, 2020",4, Pretty awesome app to view your Azure resources. Clean and simple app interface. Drawback includes limited support for actually controlling these resources. I would say use this app for checking the status of your Azure resources on the go. Hopefully future updates will add greater controlling capab...Full ReviewPretty awesome app to view your Azure resources. Clean and simple app interface. Drawback includes limited support for actually controlling these resources. I would say use this app for checking the status of your Azure resources on the go. Hopefully future updates will add greater controlling capabilities.
+1,Malay Vasavada,"March 9, 2020",2," Suddenly this app has stopped working. It continuously asking for sign in organization page. Despite of successfully providing organization username and password and authenticating with Microsoft Authenticator App with code or even approve button, it simply doesn't login. Keep asking organization cr...Full ReviewSuddenly this app has stopped working. It continuously asking for sign in organization page. Despite of successfully providing organization username and password and authenticating with Microsoft Authenticator App with code or even approve button, it simply doesn't login. Keep asking organization credentials again and then code and then again credentials and then code and again... Endless... This was never the case earlier.dont know what has changed. App is now useless since I can't login"
+2,Larry Webb,"March 14, 2020",5," Microsoft Azure is the perfect platform used for many purposes including storage, database evaluation, and networking. I have had a positive experience with Azure and highly recommend it to anyone who doesn't necessarily have the principal to buy the resources that Azure offers."
+3,Avery Chua,"April 18, 2020",5, Good first experience so far. Easy to use and fast in speed. I move my SAP Business One to Azure from Newtek One. So much faster and economical than Newtek One.
+4,Jovany Espinoza,"February 23, 2020",4," Portal functionality is very limited. Unless you memorize the commands to create resources, this application can merely be used for tracking and monitoring your resources. Room for improvement."
+5,Cla Oijas,"April 11, 2020",4, Useful for alerts and see a quick status of your services. What would be really nice is too have also a cost dashboard.
+6,Kris Deb,"March 10, 2020",2," Not much to do tbh. Useful for control the VMs and nothing else... I wish I had AAD, Intune, identity Protection, Azure Security Center, Sentinel dashboards minimum. At this state it's not Azure app, it's rather Azure VM list."
+7,Nicholas Rogoff,"April 17, 2020",5, Great app. Works very well and allows me to manage my Azure environment very quickly
+8,Jon Thwaites,"February 7, 2020",1," Completely pointless, I was expecting this to allow me to perform some administrative tasks on our tenantcy. It needs some serious work and features added for it to be worth installing."
+9,Lukáš Josai,"March 19, 2020",2," I am very disappointed, the UI sucks, there is no darkmode, you cant add or remove resources and the information available is sparse at best."
+10,Ashraf Khan,"March 23, 2020",4, Amazing App. I would have given it 5 stars if only it showed me my Azure Credit Balance when I open the app
+11,R S,"March 8, 2020",1, I cant acces AZURE DEVOPS board from this app. It seems the devop service is not integrated with Azure cloud. I wish there was a mobile app for Azure Devops boarfs.
+12,Jeffrey Ingle,"March 5, 2020",4, All the extensions and add ons to gather up any and all system and file apps is amazing.I am impressed.
+13,dec20056,"March 14, 2020",1, I just wanted to manage work items on my project but after logging in it says i don't have an azure account.
+14,Charlie Kimsey,"March 22, 2020",5, Easy setup and connect to your account nice and smooth
+15,Abhishek Mukhopadhyay,"February 28, 2020",5, Gives you a good insight of what's happening inside your Azure account.
+16,Tonderai Ngirande,"March 1, 2020",5, Great App Check my Sever anytime and but I'm having challenges access my Networking Options
+17,Dave Angotti,"April 1, 2020",2, You will get 5 stars when you give us dark mode and configure* it like how the mobile-browser one looks.
+18,Olemaiko Kolev,"February 14, 2020",5, Start all is needed. To select all servers.
+19,Wade J Hannah,"February 7, 2020",4, No bad. Yet i lost all my work for some reason. Would like to retrieve it back some how. All around it is a great app.
+20,Chandrashekhar Seetaram,"February 22, 2020",2, Would have been nice to have cost analysis also on the app
+21,Drew Bryant,"February 22, 2020",4, Has simple to follow instructions.
+22,Ahmed Hablas,"April 18, 2020",5, Excellent app! Keep up the good work!
+23,Andrew Madrigallos,"March 9, 2020",1," Useless app, information are useless, just stick to web."
+24,Mike Surcouf,"November 11, 2019",1, This app doesn't seem to work if MFA is enabled.and device compliance is requested. The login shows Device Authentication Required - DeviceId -DeviceAltSecId claims are null Other apps such as Office 365 app seem to work with MFA and conditional access just fine
+25,Doug Thompson,"December 15, 2019",3," Whats the app Actually do? As a TFS user moving to Azure i want to know what builds have failed. If i am running out of space somewhere, if i need to trigger a house keeping job. How does my Work Items queue look. What action do i need to take. Are there any pressure points building up in any of my ...Full ReviewWhats the app Actually do? As a TFS user moving to Azure i want to know what builds have failed. If i am running out of space somewhere, if i need to trigger a house keeping job. How does my Work Items queue look. What action do i need to take. Are there any pressure points building up in any of my architectures. What can i do now and what do i have to do in the office. What SDK is there to drive this app so i am always connected. What youtube vids are there to lever this tool - none."
+26,Tim Brien,"January 31, 2020",5, Combining this app with the RD Client on a DeX mounted Samsung phone eliminates the need to carry a laptop!
+27,Ivan Porta,"January 4, 2020",5, I use this app to manage my web applications instead of using the web portal. It has a friendly UI and offers many useful features.
+28,Osarenmwinda Ohuimumwen,"January 4, 2020",5, The application is easily accessible and fast to deploy VMs.
+29,Tuomas Hietanen,"January 17, 2020",1," Couldn't even add a firewall rule to a VM. Considering that Azure Portal website is buggy on mobile and cannot do it either, that is where you'd need this software."
+30,K K,"October 31, 2019",5," Love it, saved my life a couple of times, was able to restart webapps while having dinner."
+31,Αθανάσιος Κουρούκλης,"January 7, 2020",5, A very nice and essential app offers a good look inside the vast amount of information in the Azure cloud.
+32,Teja Swaroop Bezawada,"January 19, 2020",4, UI can be improved along with adding more features. Content refresh is a big concern with this app.
+33,Bennett Cookson,"December 29, 2019",5, Handy for managing servers when away from computer and I find it much easier for simple tasks than full website.
+34,Imran Muhammad,"January 8, 2020",5, One suggestion : Recent resources section should get cleared if the resources have been terminated. I had deleted VM but still showing in recent resources....
+35,James Hinojosa,"March 12, 2020",5, Easy to use on mobile devices!
+36,Bryan Smith,"March 27, 2020",5, Great app for Azure Admin on the go!
+37,מרדכי אלתר,"January 4, 2020",1, Shows nothing but general resource information. I'd expect at least a liitle bit of information beyond resource name and ID. I can't even see the money spent for this month.
+38,ssc134,"January 21, 2020",4, Fingerprint unlock feature doesn't work. And the app takes frustrating long to respond even on a decent device processor and a decent network speed.
+39,Mr. Saiya OFFICIAL,"April 5, 2020",1, Hello microsoft . why when i go singup azure student free. And i looking for my country (cambodia ) it no has :( why you did it. Idont know what you think about my country :( but you need to know .many people of my country use your product ;(
+40,Reagan Govender,"January 10, 2020",5, Excellent app. Very easy to start and stop Azure VMs on the go
+41,Anthony Franks,"December 12, 2019",5, Nice app! 👍 I like that you can use cloud Shell in it. First time I've ever been able to use vim from my phone!
+42,David Hansen,"December 18, 2019",4, Love this app. Dashboards is the only thing missing.
+43,Paul Lloyd,"January 23, 2020",4," Great app, so useful for managing ones Azure environment from a mobile phone."
+44,John Landis,"December 8, 2019",5," simple navigation to resource status, and CLI access available."
+45,Michael Mancini,"December 19, 2019",1," Doesn't work. All it ever shows me is ""failed to load."""
+46,kamar hamzah,"December 3, 2019",1," I registered free account recently and was charged MYR5, despite Microsoft keep emphasising no upfront charge... totally dissapointed"
+47,Rayyan Hodges,"December 21, 2019",4," Great app, wish you could deploy and delete things though."
+48,Parag P.,"January 15, 2020",2, Unable to set shutdown schedule of a VM.
+49,Ankit Shah,"February 14, 2020",1," Not useful Update: I expected ""Users"" and ""Groups"" Ain't this basic requirement?"
+50,Peter Nedonosko,"January 22, 2020",5, Good balance of features and quality.
+51,Matt Watson,"December 3, 2019",1, This provides practically no real usable functionality. Very limited usefulness.
+52,Shaun Hicks,"January 12, 2020",5, Smoothest and best experience with a Microsoft product yet
+53,Anthony Robinson,"December 5, 2019",1, Literally just stopped working for no reason. Thoroughly underwhelmed
+54,Tharinda Dammika Kumara,"April 23, 2020",5, Very helpful application
+55,Guru Prasad,"January 14, 2020",5, Its very easy to Use and manage
+56,Vinayreddy Yadavelli,"November 2, 2019",5, Useful app to manage azure resources on the go
+57,sinenhlanhla bhengu,"April 5, 2020",3," Just couldn't do a basic like logging in to the azure portal. For me the app wasn't helpful based on what i wanted, for different maybe it is or might."
+58,Timothy Lam,"February 27, 2020",1, Refresh Doesnt. Work at all
+59,Ali Amjad,"April 18, 2020",5, Best cloud experience compare to AWS or Google
+60,Kiron Ghosh,"January 19, 2020",5, Easy to use and works great
+61,Michael Richardson,"March 22, 2020",1," I don't understand the point of this app. I cannot control any of the metrics views, see any useful billing information, or manipulate anything. I always end up on the website. Uninstalled."
+62,Mark Lawton,"January 17, 2020",5, Restart App Service a real life saver!
+63,Earl Medina,"December 19, 2019",5, Really simple to use.
+64,Syed Muhammad Kashif,"February 7, 2020",5, Best service in the world
+65,Ramon Litonjua,"March 1, 2020",4," Very good response times and latency, good integration of local tools with the cloud services."
+66,Tareq Imbasher,"June 18, 2019",4," Pretty good. would be nice to include a way for the user to see costs, I would like to keep tabs on how much costs my VMs accrued this far for the month. i can do that from the web but not here. Obviously, this app wasn't made to do everything the web interface does, nor should it, but I think somet...Full ReviewPretty good. would be nice to include a way for the user to see costs, I would like to keep tabs on how much costs my VMs accrued this far for the month. i can do that from the web but not here. Obviously, this app wasn't made to do everything the web interface does, nor should it, but I think something like costs is a good metric to have, and doesn't require user input so that should make the feature simpler to implement. Thank you for the great app 👍"
+67,Miloslav Pawlica,"December 29, 2019",1," Useless, as most of new invetions from MS. Interface is poor, nothing interesting except starting stopping VM. When I try to run cloud shell, my device will crash. Even using Azure over desktop is pain."
+68,Tamás Gábor Szabó,"September 6, 2019",1," The name of the application is awfully misleading. You can't manage Azure services with it (AAD, AIP, PIM, B2C, Intune, OMS, AADC, and a lot lot more) . This is only a VM management tool with very limited functions. The app should be called something like Azure Virtual Resource Manager... I'd love t...Full ReviewThe name of the application is awfully misleading. You can't manage Azure services with it (AAD, AIP, PIM, B2C, Intune, OMS, AADC, and a lot lot more) . This is only a VM management tool with very limited functions. The app should be called something like Azure Virtual Resource Manager... I'd love to see a usable app with at least the same functionality like the basic Azure website"
+69,Danny bird,"March 20, 2019",4," great potential, but I'd like to see some consistency on the time periods on the graphs.  why do some resources show the last hour and others 24hrs?  examples of 24hr are SQL Database or Event hubs.  I want to use this app to see problems as they happen in more detail.  Can we have maybe a global ti...Full Reviewgreat potential, but I'd like to see some consistency on the time periods on the graphs.  why do some resources show the last hour and others 24hrs?  examples of 24hr are SQL Database or Event hubs.  I want to use this app to see problems as they happen in more detail.  Can we have maybe a global time period for everything you see?"
+70,Pierre Namroud,"March 28, 2020",5, Very handy app....
+71,Anoop JK,"July 17, 2019",4, so cool and smooth navigation. sadly I cannot view the files in storage location under resource group. looks like the option is not available! also to authenticate rdp connectioni have to approve the port through Browser and then have to come back to the azure app and click connect. that way only it...Full Reviewso cool and smooth navigation. sadly I cannot view the files in storage location under resource group. looks like the option is not available! also to authenticate rdp connectioni have to approve the port through Browser and then have to come back to the azure app and click connect. that way only it looks working! that's weird
+72,Ashley Lee,"October 15, 2019",1," Only the most basic functionality is supported, which renders the app almost useless. Every time I open I end up having to load using my browser to get to the information I need. You can pull up AppInsights performance, but not dependencies. I can open AKS, but no visibility into nodes, pods, or con...Full ReviewOnly the most basic functionality is supported, which renders the app almost useless. Every time I open I end up having to load using my browser to get to the information I need. You can pull up AppInsights performance, but not dependencies. I can open AKS, but no visibility into nodes, pods, or containers. No log analytics, ect."
+73,Omar X,"December 27, 2019",5, Brilliant app. I see it ain't more and me functionality from the online Azure dashboard. Keep up the great work!!
+74,SJC Burrage,"September 7, 2019",5," I had a choice: Buy a new workstation for around £1000, or rent a VM on Azure at £0.14 per hour (of use), costing me around £300 per year. So glad I've chosen Azure. I can remote desktop into my VM from wherever I am, and even use my the Azure's built in RDC on my android tablet when out and about a...Full ReviewI had a choice: Buy a new workstation for around £1000, or rent a VM on Azure at £0.14 per hour (of use), costing me around £300 per year. So glad I've chosen Azure. I can remote desktop into my VM from wherever I am, and even use my the Azure's built in RDC on my android tablet when out and about and it's just as if I'm sat in front of a high end workstation. Really love it."
+75,Vishal Patil,"January 27, 2020",5, Great app to control azure resources !
+76,Sean Cross,"November 2, 2019",5," Amazed that this works on my S9. Interface is a bit hard to move around and learn the workaround controls, but it works!"
+77,Pratish Thaker,"June 13, 2019",5," Very nice and effectively useful app to design, store and monitor all my AI apps which are working properly with Azure Web resources and Microsoft platform. Many thanks to the developer team to help researchers like us to utilize machine learning capabilities in real time functionality. Keep it up."
+78,Peter Wishart,"January 4, 2019",1, Doesn't work on my Samsung S7 with Oreo. I have just installed. It can't seem to start. Just shows the swirling circle like it is trying to connect. No interaction or messages. I gave up after 15 mins of waiting.
+79,Sean Lyttle,"December 4, 2018",3," This app was so useful, but the latest updates has broken it on my OnePlus6. It just sits on its opening loading screen and refuses to proceed. No settings or options, just useless no. Please fix it quick!"
+80,Bryan Ponnwitz,"May 21, 2019",2," This app might be good for some basic monitoring, but that's about it. I wasn't even able to change the time span for monitoring. It's basically next to worthless for doing anything other than that."
+81,Will Westrop,"October 20, 2019",1," Incredibly limited. There is no access to logs, no monitoring of containers, no access to cost information, no ability to create new resources - it's pretty much just a read-only view of your subscription (and a very limited subset at that)"
+82,Andy Nicholls,"February 1, 2019",4," No longer works since Android 9 update. Can't even sign in!! Update.... Yep, now works!! Thanks. Frustrated as i use the mobile app quite a bit over multiple subscriptions."
+83,S B,"December 1, 2018",4," I like the app. However, it doesn't let me to have two accounts with same email: microsoft account and corporate login. Please, add this feature!"
+84,Nandkishor Bobade,"November 2, 2019",1, Not able properly do the copy and paste activities . Also very bad terminal management for Azure CLI and powershell
+85,Deepak Agarwal,"February 1, 2019",3," the latest updates doest allow me to davr my credentials, everytime i have to enter them again. it doent makw this app worthy as it should be for a quick action. batter tobuse browse than."
+86,Дмитрий Барбул,"January 25, 2020",1, Almost no functionality. Even no billing information.
+87,hemendra singh,"May 4, 2019",2," Very basic, can't even scale up/down an app service. It's only good for monitoring and start/stop of services."
+88,Ted Miles,"March 3, 2019",5," The shear convenience and smooth operation of the mobile app, in some ways, makes it more enjoyable than the full website experience!"
+89,Nirav Madariya,"November 5, 2018",5," Awesome application, you can view all of your resources health and status from Azure. In other words, Azure in your hands."
+90,Sean Hasling,"July 27, 2019",2," Azure Active Directory Premium 2 can't be administered through here. If you are going to advertise on Azure Active Directory's portal, and recommend the install of the app, prpvide admin services for AAD, especially AAD connect health agent"
+91,Stan,"February 3, 2019",1, cannot log in. keeps telling me login failed. I can log in using browser with no problem. but not in this app.
+92,Andrei Vlad,"September 16, 2018",4, Is there no option to actually see the costs for your subscription within the app? I believe this might be useful for a mobile admin who needa to check things quickly
+93,Ana Nikolic,"August 14, 2019",5, One of my favorite by Microsoft.. Learn a lot.. Take care of their users. Provide knowledge without paying.. Quite different from all others app.. Very satisfied.. Ana Nikolic
+94,Anderson Anjos,"April 23, 2019",2," If Microsoft want to provide a truly useful tool for Azurr Cloud, they definitely have a lot of work to do."
+95,Ankesh Bhutada,"February 20, 2019",1, Not able log in. It says 'your account doesn't exist' or something like that. And i am easily able to login to my Microsoft Azure account on my PC.
+96,Arshad Badar Khan,"December 8, 2018",1, I have an honor9 and I wanted to use it to metrics but the charts on insight are empty. The servicbus provides no info on queues and topics. But the liveinsight is cool
+97,Simon Lane,"October 3, 2018",5," Great app, would be great if Just in Time JIT rules can be activated though as still need portal access."
+98,Al Romano,"September 24, 2019",1," Can't login if fingerprint verification is done via screen tap, it closes the login modal. Impossible to login using Huawei MATE20 Pro. Please fix."
+99,Mike Weiner,"October 17, 2018",1, Unable to use because I have a personal account tied to a work account. It won't let you choose which account to use.
+100,Pandu Hutabarat,"July 8, 2019",1," Subscription or Resources not showing. Login works fine, but it won't show any of my Subscription or Resources even though it works normal through the web browser."
+101,Umar Ali,"October 29, 2019",1, Does not list my subscription. I have already sponsor ship subscription but not showing in app.
+102,Benjamin Siegel,"February 1, 2019",5, Excellent tool for supporting Azure resources on the go. Glad to see this latest update resolves some MFA login issues. Great job Microsoft...
+103,Raul Butuc,"August 10, 2019",1," You cant access your remote VM if you have JIT enabled because the mobile app doesn't have the ""Request Access"" feature. Brilliant idea leaving that feature out!"
+104,许良,"May 24, 2019",4," In the web portal, everything is ok. But when I sign in the app. It shows have no subscription to Azure service. Can you help me?"
+105,Magesh P,"October 18, 2018",3," Need more information from developer perspective. Couldn't dig deep in failed request, Dependency failures. As a developer I should know each and every failed request and what is the reason behind."
+106,Jeejnesh,"April 16, 2019",4, Experience is very good. Its easy to do some basic operations in mobile without PC. Thank you Microsoft
+107,Michael Mbugua,"September 9, 2019",5, I can easily monitor my function apps and databases from the convenience of my phone. awesome application.
+108,Alex Michel,"December 12, 2019",1," I'm not able to install the app. It's stuck on ""waiting for download"""
+109,Rafael Stirling,"October 7, 2019",4," Hi guys, Is it possible to include a list of alerts on the Application Insights screen? It sounds weird to show that are 3 or 4 recent alarms but only let the user to have access to the lastest one."
+110,Argelo Bautista,"November 11, 2019",3," It would be nice if I can create new resources, upgrade/downgrade SKU, and delete resources."
+111,Sunil Ajagekar,"December 13, 2018",3," Its little helpful but missing lots of features, add feature for DW scale up and pause"
+112,Saketh Ram,"June 18, 2019",2, This used to work well but now I am always being looped within the login screen again and again.... need a fix
+113,admiri92,"October 11, 2019",4," Works fine but is useless, except AZ powershell. Please add possibility to configure firewall rules."
+114,Rob Wood,"May 28, 2019",5, Very happy to give this app the full 5 stars. Exactly what you need on the move!
+115,Damien Thomas,"December 30, 2018",1," It won't sign me in. I sign In but it fails saying ""Can't sign you in to any of your directories"". FIX ASAP"
+116,Rajeshkannan Manickam,"October 16, 2019",3, There is no option to see The cost details in subscriptions. (How much we used)
+117,Jonathan Adlerstein,"February 21, 2019",1, Can't sign in. Object reference not set to an instance of the object. Emailed support and got no response.
+118,Eduardo Rotundo,"January 26, 2019",4, For the old version works smoothly but now after update i can't enter to my panel i got a error of sign process
+119,Laith Astifan,"March 2, 2019",2," Need to be able to access Azure AD privileged Identity Management, otherwise how will you JIT yourself when enabled for your organization, without this you will not be able to perform simple tasks such as restarting a VM"
+120,Atanu,"June 26, 2019",3, Very dull UI. Navigation throughout the app is very oldage like. OK kind of app.
+121,James Bragg,"January 31, 2020",5, Very fun in the intro to Data science
+122,Simon Leach,"April 7, 2019",1, Useless. Will not connect and Error message is no help at all.
+123,sachin khedkar,"July 31, 2019",3, Able to login to Azure Account but getting error as You dont have subscription linked to this email.
+124,Bryan Austyn Downing,"January 14, 2019",5, simple and great. Simply great! Nice work Microsoft Azure team.
+125,Fabio Fernandes,"October 11, 2018",4, Very useful to check our Azure resources and status while on the go.
+126,"Dave Cecil, Retired US NAVY SUBMARINE COMMANDER","October 1, 2019",3," Poor access ability, seems Microsoft is abusing getting direct access for free interested users, bad on Microsoft, I'm using Linus for now. Dave Cecil"
+127,Santosh Gada,"October 4, 2019",1," Never works, does not allow me to let into the application even after successful MFA. That's odd. Some one please look inti this. I am logging through my official credentials."
+128,A Google user,"December 5, 2018",1," Login with fingerprint stopped working, can't login now?!!!"
+129,Rich Scott,"October 1, 2019",1," does not list my subscriptions , and no help or support pages anywhere to be found ,"
+130,Devansh Jain,"January 24, 2019",1, Keeps crashing on Google Pixel 3. Giving exception - Object Reference is not reference of object.
+131,Mike Westaway,"October 9, 2018",5, Very handy especially when I've forgotten to stop my VM
+132,The Good samaritan,"September 1, 2019",5, This is a perfect app for people who deploy vms and need to start and stop on fingertips!
+133,G P,"December 14, 2019",5, Easy to use and easy to navigate.
+134,srinath vr,"March 12, 2019",1, Useless. Dint even have a properly integrated cloud shell. If i type commands it auto types somwthing else. Sigh!! Straight uninstall
+135,Andrew Cartwright,"March 5, 2019",5, Great app. So handy to keep an eye on things.
+136,Jussi Palo,"August 31, 2019",1," Doesn't support Azure AD Device Authentication, cannot login."
+137,Abdollah EL Ḿorsy,"August 15, 2019",1," unuseful app, too many missed options specially for log analytics and azure Security"
+138,uday kiran,"February 16, 2019",2," resources are visible but we don't have option to delete them.Like this, many other issues are there."
+139,Kenny Wu,"January 11, 2019",1, not able to login after update to the latest version of azure app for Android
+140,asif khan,"September 25, 2019",1, Cannot see the logos of the tools.Instead it shows the Up addresses.Dont know which tool is what.
+141,Arasu RRK,"January 28, 2019",1, Why this app asking login everytime? Without this basic functionality this app is useless
+142,Luis Escobar,"April 2, 2019",5," Great interface, highly recommend this app if you manage azure"
+143,Jessica McKinnon,"June 26, 2019",4, Please add support for specifying a target URI for Azure Stack deployments (both tenant and admin portals)
+144,Thomas Atwood,"December 15, 2019",5, Well designed and executed!
+145,A Google user,"January 29, 2019",1, sign is slow. never able to log in
+146,Peter Charleston,"April 23, 2019",5, can u advise on how to get notification alerts on Android? I am getting the alerts appear in the app but I want them to alert me on my phone. I belive I have enabled all notifications in Android settings
+147,Michael Dabulamanzi,"June 25, 2019",5, Its a good move on Microsoft side having this Azure mobile platform.
+148,kalyan m,"June 15, 2019",1," when I login it says ""no valid azure subscriptions found in the directory"""
+149,Erin Sena Torrez Munden,"March 12, 2019",1, I installed the app o my lg aresto phone and go to sign with my school email it gets to the school website then I login and it says sign in failed no directories found for my school email I need help
+150,Marcelo Rocha,"April 23, 2019",3," is not possible to follow the spend report, the most interesting point for this app would be to know how many money i migth to pay."
+151,A Google user,"February 24, 2019",1, worst app I can't even sign in pls update it for us and fix this issue thanks
+152,suresh sanapala,"June 23, 2019",1, i have microsoft account with gmail but i am unable to login.
+153,Amey Jirafe,"January 21, 2020",4, Nice UI and functionalities.
+154,Muhammad Imran,"April 16, 2019",3," Good app, advise where I can find Serial Console in this app."
+155,Ganesh Jadhav,"April 9, 2019",5, Awesome app to manage all azure resources on the go
+156,Joe Srnec,"February 8, 2020",5, Still got alot of reading to do not to sure what to do eith but if my memory served me correct i might know who will be interested or it may be just s coincidence they both have the same name
+157,Alan Camey,"October 21, 2019",5, Because sometimes not stay at home and try to work for a moments and this app works well for me
+158,Bikram Ray,"October 16, 2019",5, Easy to use anywhere anytime.
+159,Blaire D.,"September 25, 2019",5, Amazing live statistics and control over your VMs
+160,Jamil Malone,"April 17, 2020",5, Great experience so far!
+161,Alexius Adhitya Khrisnatama,"April 17, 2019",4, I really wish it has dark mode and provides more detail information.
+162,President Litchfield,"June 18, 2019",1," So if you have a free account, are you not able to use this app, as it does not see my resourses or subscription... yet i can login using the mobile web?"
+163,George Sturrock,"February 27, 2019",5, a convenient way to monitor clound activities from your phone.
+164,Chad Masti,"October 21, 2019",3, Customized DBA dashboard I prepared through the web browser portal doesn't show through in the app. When is that going to happen?
+165,Trung Ngo Van,"April 16, 2020",5, This app is good to me.
+166,Lee Phillips,"August 4, 2019",1, I am denied access and prompted to enroll in device managment in order to use the app despite my device already being enrolled and compliant with company policy.
+167,Richard Jacks,"March 13, 2020",5, Easy to use.
+168,Sam Larko,"February 25, 2020",3, Good if you're in commerce. Doesn't seem to support US Gov yet.
+169,Steven Vlaanderen,"July 18, 2019",5, Complete and intuitive
+170,serwei lee,"May 2, 2019",3, hmm can't log in or specify a user+pass
+171,Vivek Maswadkar,"July 25, 2019",5, very handy to start stop VM's
+172,Nathan Hutchison,"April 6, 2020",5, It's early day. Complete horse with no name.
+173,Rafay Islam,"September 16, 2018",2, Its crashing on Sign In.
+174,Daniel Barrett,"January 29, 2019",1, Could not sign me in to use this application. Not off to a good start.
+175,Nitesh Seth,"January 31, 2019",5, Its user friendly and fit for purpose.
+176,Love Bajpai,"September 8, 2019",5, What a great idea! Manage your infra from phone
+177,Vasil Stoichkov,"April 7, 2020",5, All u need to control resources in one place
+178,islam khaled,"February 15, 2020",5, Very good app
+179,Ronald Brown,"September 3, 2019",5, Integration with migration smooth
+180,Frederick Rosales,"October 8, 2019",5, I love Azure and the app is great as well
+181,Jason Adam Hoffman,"April 11, 2020",5, Developing the future here.
+182,Andrea Capri,"August 21, 2019",1, Doesn't have most of the features that would make having an app useful
+183,Josh Barnett,"October 28, 2019",1, Enough limited functionality to say we have an app for that.
+184,Andy Mallett,"October 24, 2019",5, Simple elegant management of an estate
+185,Scott Bradshaw,"September 30, 2018",1, This app doesn't work with Azure Government tenants.
+186,dimitar dimitrov,"March 5, 2019",5, very easy to work with app
+187,Rich Green,"August 1, 2019",5, Seriously powerful with the Cloud CLI!
+188,Vansh Narula,"February 8, 2020",5," I love it , Give me credit"
+189,wizzards10,"October 18, 2019",5, Amazing abilities for mobile users!
+190,Hr. Z,"August 14, 2019",1, I can't delete when I type to console...
+191,Doug B,"March 20, 2020",5, Azure on the go; lifesaver
+192,Eric Fuentes,"June 20, 2019",1, why is this not part of approved apps for intune MAM?
+193,Tope Ajayi,"March 23, 2020",4, It is cool
+194,Pras Shant,"October 6, 2019",5, Try to have dash board in app like some coding can be done
+195,Anonymouse 1,"June 15, 2019",1, subscription not recognized
+196,Siddharth Shah,"February 14, 2019",1, can't able to login
+197,Esteban Flores,"November 26, 2018",5," Cloud shell access, enough said."
+198,Nagaraju Podishetti,"September 19, 2019",4, Easy and fast
+199,Manoj Kumar,"September 21, 2018",5, Good to manage vm
+200,Srisailam yadav,"March 20, 2020",5, Interesting cloud topic
+201,Lucky Bogoshi,"March 28, 2019",5, good app! love it!
+202,A Google user,"March 7, 2019",5, really best users experience in this application
+203,Tahir Alvi,"December 5, 2018",5, Love this app and performance
+204,Rajesh Dhuri,"March 6, 2020",1, Fails in installation
+205,David Tomlin,"November 20, 2019",5, Submentting my thanks for subscribing
+206,Alok Sharma,"March 11, 2019",1, no directories msg coming...
+207,Tomislav Kralj,"October 27, 2018",5, Does what it has to. Simple and effective.
+208,Dustin Jackson,"December 7, 2018",5, Lots of cool technically futuristic stuff all in one bag...
+209,A Google user,"November 29, 2018",5, This app is so much nice forever
+210,Michael C,"December 30, 2019",5, It's very handy.
+211,Erin Terrell,"December 20, 2019",5, Awesome app for students
+212,Fabian Cloete,"December 4, 2019",5, Easy to work with us up
+213,Duncan Kuffar,"January 6, 2020",5, Must have tool of labor for sys adminis az
+214,David Denes,"December 13, 2018",5, It's easy to use
+215,Real Tech Systems,"January 18, 2020",5, Ease of use
+216,Yoki Satria,"November 22, 2019",5, why I put 5 star?
+217,Adriel Mebaley,"February 17, 2019",1, cant log in
+218,Navin Ghai,"October 31, 2019",5," Just go for it, and have your own experience of goodness"
+219,Olav Birkeland,"May 30, 2019",4, Please add dark mode.
+220,Pieter Smit,"May 20, 2019",2, No Azure Devops integration
+221,Swapnil Roy,"January 3, 2019",1, can't sign in
+222,G Hill,"September 19, 2018",4, Like others I am waiting for more functionality.
+223,John Stewart,"May 22, 2019",5," ronseal does exactly what it says on the tin, it is great"
+224,A Google user,"September 26, 2018",5, I was help by a useful employee he changed me for the better I miss him
+225,Amanda Wassum,"March 15, 2020",5, Love the possibilites
+226,Alexandre Ely,"February 26, 2019",1, Trash. Don't show my resources and Dashboard.
+227,Naveen D,"May 7, 2019",1," Frankly you can do nothing using this app, useless app"
+228,チュimoc,"November 29, 2018",2, What? Can't create and delete?
+229,Brendan Green,"September 20, 2019",5, I wish I could get this on the desktop
+230,Mohammed Moinudheen,"October 13, 2018",4, Nice to have this app.
+231,Shehryaar,"November 5, 2018",3, What is Microsoft azure????
+232,A Google user,"February 2, 2019",1, Doesn't let me sign in?
+233,Bigger Head,"September 6, 2019",2, I can't get an supscripion
+234,Coumar Pandourangane,"January 22, 2019",5, Working as expected...
+235,Sudarshan Kumar,"December 17, 2018",5, Good job keep it up
+236,Ranjeet Bhargava,"July 31, 2019",4, lite wait its good to see the anroid vetsion
+237,Imtiyaz Ali,"February 8, 2019",1, How can i open azure active directory?
+238,SAMIT Sarkar,"October 21, 2019",5, Azure is in your pocket now 😀😀😀
+239,karthik divi,"November 26, 2018",5, Makes my everyday life easy...
+240,darivuki,"March 5, 2019",5, Works like a charm
+241,Gaurav Madaan,"November 21, 2019",4, Really lovin this
+242,kyaw myatzan,"April 22, 2019",5, we can do more effect matter to furture.
+243,John Doe,"March 13, 2019",3, doesn't work for gov
+244,Chris Watson,"October 4, 2018",4, It's pretty good!
+245,Msizi Mabunda,"February 4, 2019",1, CANT EVEN SIGN IN!!!
+246,Armaan McLeod,"August 13, 2019",3, i cant delete resources
+247,Albert Laforte,"September 27, 2019",5, Create solid product
+248,Radu Dumitru,"August 19, 2019",5, nice and handy
+249,/\zcii,"October 11, 2018",5, Big fan here
+250,Ratna Ratna,"September 7, 2019",4, Should add JIT
+251,Sai Prasad,"April 25, 2020",5, Very useful and helpful
+252,Kyle,"April 10, 2020",5, Thank you!!
+253,Aaron Sullivan,"March 11, 2020",3, Limited functionality
+254,Benjamin Hallewell,"April 12, 2020",5," ABSOLUTELY, EPIC!"
+255,Dominic Johnson,"April 1, 2020",5, Very informative.
+256,Endale Mengesha,"March 18, 2020",5, Transforming life
+257,anas abubakar,"April 7, 2020",5, Cool app
+258,Michael Paterson,"April 7, 2020",5, Awesome app
+259,Ahsan Ahmed Khan,"April 21, 2020",5, Very good
+260,Stephen Sprague,"March 25, 2020",5, Awesome
+261,varun kulkarni,"April 12, 2020",5, Excellent
+262,Phil Beck,"February 14, 2020",5, Awesome
+263,Xavier Borrell,"January 27, 2020",5, Great app!
+264,sanjeev Singh,"January 21, 2020",5, Good
+265,Keyonta Brown,"January 26, 2020",5, Greatest
+266,Stefan Van Der Merwe,"January 29, 2020",5, Cool
+267,Oduwole Oluwasegun,"April 10, 2020",5, Cool
+268,Thomas Farley,"January 3, 2020",5, Wow
+269,bpg 168,"January 15, 2020",5, Good application :)
+270,nowords010 nowords010,"December 20, 2019",5, Enjoy
+271,Ha Anh Tu,"December 31, 2019",5, Good
+272,Paul Petre,"January 7, 2020",5, nice
+273,Jose Ramirez,"January 13, 2020",5, Excellent
+274,Shubhajyoti Ghosh,"December 15, 2019",5, Love this
+275,Daniel Cousino,"December 10, 2019",1, Mfa broken
+276,Balan M,"November 28, 2019",5, Awesome !!!
+277,Abrar Tahmid,"November 29, 2019",5, expensive
+278,vishy pawar,"December 4, 2019",5, Good
+279,mokhtar elkomy,"November 15, 2019",5, Good app
+280,James William Puttergill,"February 22, 2020",5, Fine
+281,Sabir Samo,"October 12, 2019",5, Nice app
+282,Bernard Añana,"October 21, 2019",5, Thumbs up
+283,Deepak Gowda,"October 22, 2019",5, Great
+284,Hassan Habib,"October 14, 2019",5, Amazing app!
+285,Harish Wani,"September 16, 2019",5, Excellent tool
+286,moh sam,"September 30, 2019",5, Very good
+287,Bhagyashree Chandrashekar,"August 29, 2019",5, good
+288,Fajar Pambudi,"August 14, 2019",5, add billing menu please
+289,Aniruddha Bapat,"August 2, 2019",5, Very good
+290,Crystal A. Gargasz,"August 5, 2019",5, cobalt blue
+291,XXX,"July 6, 2019",1, Rubbish 👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎
+292,Habib ur Rehman,"July 23, 2019",5, Excellent
+293,Lerio Sindane,"September 20, 2019",5, Pratical
+294,Dan Benitah,"June 26, 2019",5, Please adf an option to list favorites from all logged in accounts at once. thanks
+295,Mayank Aggarwal,"June 22, 2019",5, awesome 👍
+296,Jeff Mckenzie,"June 15, 2019",5, good
+297,Jose Moreno,"April 29, 2019",4, its good
+298,Uthiresh kumaravel,"March 30, 2019",4, nice
+299,Papai Copa,"April 10, 2019",5, it
+300,Erebor Vlak,"March 9, 2019",5, good view
+301,Robin Sayer,"March 23, 2019",5, Superb
+302,Rafael Plugge,"March 4, 2019",3," EDIT: Tried updating and installing the app it works now, will update the rating when more time with app has passed."
+303,Jimy Kamdani,"February 23, 2019",5, Nice
+304,Eu Mesmo,"February 16, 2019",4, we need same features as using browser !
+305,Gautam prasad,"February 13, 2019",4, good
+306,arikatla narendra,"January 18, 2019",1, automatically logout
+307,Isaias Martinez,"November 28, 2018",5, Best
+308,Joshua Williams,"October 30, 2018",5, Great app
+309,Juan Carlos Cigala García,"October 14, 2018",5, Well done.
+310,Apirak Khemapirak,"October 1, 2018",1, ห่วย ไม่รองรับ android ที่เป็นภาษาไทย ต้องแก้เป็นอังกฤษถึง ล็อกออนได้
+311,A Google user,"September 7, 2018",5," Very nice app but still very limited in functionality. Would love yo be able to perform some more tasks through the UI. Also it crashed veeeery often on startup, but maybe the latest update has resolved that, let's see."
+312,Chriss Kalogeropoulos,"September 8, 2018",5, Very nice app. The issue with classic VMs was my problem
+313,Didier Danloy,"September 14, 2018",5," Let you add, control and monitor ressources you have in Azure"
+314,Rajitha V,"September 11, 2018",5, Super cool:-)
+315,Joe Holstein,"September 7, 2018",2," Doesn't show VMs. Other esouces are visible, but not my VMs. This may be related to account types, but the Azure experience is inconsistent between platforms."
+316,Connor Murphy,"September 6, 2018",1, Crashes on open useless!
+317,Javad,"August 31, 2018",2, We cannot set sql server fiewall rules
+318,Vaibhav Shete,"September 2, 2018",4, More betterment can be done in commands intellisense
+319,Gourav Kumar,"September 1, 2018",4, Please add Runcommand option for VM to make it more interactive.
+320,Craig Wilson,"August 21, 2018",4, Nice app but would benefit to be able to drill into resources such as storage accounts and backup vault contents. Also how much these are costing us
+321,A Google user,"August 7, 2018",5," I'd love to see billing info, such as pay-as-you-go account consumption to 
+date."
+322,SK K,"August 24, 2018",1, Keep crashing at startup app. I'am S8 user.
+323,Mohammad Sabry,"August 10, 2018",5," Need to have a small check box to allow me to check all vms and start/stop 
+them once."
+324,Ray Lomax,"August 27, 2018",5, Hand on to watch my resources
+325,Liron a,"August 5, 2018",3," It's a good start, but many features are not implemented."
+326,Adam Phoenix,"July 29, 2018",4, Keeps crashing at startup!
+327,Waseem John,"July 31, 2018",4, Should have more control as we have in portal
+328,Jim Wang,"August 8, 2018",4, Very good app
+329,Felipe Ayora,"August 1, 2018",5," Simply put: WOW!! Clean, fast and well designed app that does everything I 
+need to manage and monitor my Azure resources, and more! The Cloud Shell 
+integration is AMAZING!!! Seriously, how cool is it to have a bash console 
+on your phone WITH the power of Azure included with it?!"
+330,Robert Ridal,"August 4, 2018",1," This is app that you can't actually do anything. I feel that the only thing 
+I can do is to follow the metrics, but for example most important thing I 
+would like to do is to see logs but as it can't be done so this is pretty 
+useless."
+331,Family Fry,"July 31, 2018",4," Would be nice to be able to select multiple virtual machines and apply an 
+action such as start, restart or stop."
+332,A Google user,"July 25, 2018",2, Keeps crashing on S8+
+333,HC CH,"July 25, 2018",2, Keeps crashing. Please fix it.
+334,Andrew Bevan,"July 31, 2018",1, Broken on install... Not good
+335,Satyam Pandu,"July 20, 2018",5, Am using this azure App for cloud testing purposes so app is great
+336,S E.,"August 6, 2018",1, Keep crashing on startup
+337,Kristian Ask,"August 7, 2018",1, Crashes immediately
+338,Niranjan Bhatia,"July 26, 2018",5, Good impressive app
+339,Andrew Nightingale,"July 10, 2018",5, App is great! Latest update fixed the crashes I had been experiencing.
+340,A Google user,"July 16, 2018",1, Crashes on Galaxy S8
+341,Leon Strunjak,"July 18, 2018",1, Crashes on note 8
+342,Muhammad Mustaqim,"July 12, 2018",1, Crashes at start.
+343,harry calgery,"July 14, 2018",4, Need faster loading
+344,Andreslon,"July 16, 2018",3, Excelent
+345,Ben Duguid,"July 3, 2018",5," Had been using the original App Service app to stop, start and monitor my 
+Azure apps, but this gives me almost complete access to everything I have 
+in the portal, including live metrics from App Insights and access to the 
+cloud shell. Also allows extra security of requiring a thumbprint to 
+open/...Full ReviewHad been using the original App Service app to stop, start and monitor my 
+Azure apps, but this gives me almost complete access to everything I have 
+in the portal, including live metrics from App Insights and access to the 
+cloud shell. Also allows extra security of requiring a thumbprint to 
+open/switch to the app."
+346,Progy,"June 28, 2018",1," WHERE ARE MY NOTEBOOKS? It shows nothing under ""all resources"". I have a 
+whole bunch of iPython notebooks in my azure notebooks account. How do I 
+access them on mobile??"
+347,sanket ghate,"July 16, 2018",4, App must have capabilities to create resources too
+348,Craig Matthews,"June 4, 2018",3," It would be great if I could see cost tracking for my resources and with 
+that the ability to drill down from all resources to resource group to 
+individual resources. Additionally, ability to browse into storage accounts 
+would be a nice to have."
+349,Matthew Steeples,"May 27, 2018",4," Great to be able to monitor stuff on the go, and do simple tasks. Looking 
+forward to more graphs and stats"
+350,Justin Niles,"May 26, 2018",5," Love the mobile app, it allows me to monitor Azure resources and take 
+crucial actions on them!"
+351,Stratos Theodorou,"June 3, 2018",3," Not much to do, other than check the status and restart VMs & services."
+352,A Google user,"June 19, 2018",5," Excelente, ojalá vaya ganando nuevas características rapidamente"
+353,Aniket Gaikwad,"June 14, 2018",4," It will be great if able to view the resources categorized by their 
+resource groups."
+354,Sand T,"June 18, 2018",1, Very less functionalities
+355,Akira Kusumoto,"May 30, 2018",1, うーん・・・リソースが一つも表示されない・・・
+356,Shawn Anderson,"May 21, 2018",3," Needs a lot of work. Doesn't find much in my accounts and what it does find 
+you really cannot do anything with."
+357,Cole Mickens,"May 15, 2018",1," Can't login if fingerprint is unavailable. App takes forever to load. App 
+isn't open source. App doesn't support widgets. App doesn't use the Android 
+login/account system. It's a Xamarin app and it shows."
+358,Michel Caron,"May 19, 2018",5, Perfect mobile tool!
+359,Anders Spælling,"May 8, 2018",4," Fails to stop DevTest Lab VMs. Can start them just fine. Please look into 
+this. Confirmed behaviour with other users."
+360,A Google user,"May 11, 2018",5," no doubts, a nice tool"
+361,Madhur Joshi,"May 10, 2018",5, Finally! Awesome
+362,Priyabrata Maharana,"June 10, 2018",5, Such an amazing app to get quick insight of your Azure Resources!
+363,appi beaula,"May 4, 2018",1," After signing in, the page is just keep on loading even with good 
+internet.. thought it will be useful but full waste.. not sure why 
+Microsoft has such faulty apps"
+364,Vitaliy Ganzha,"April 29, 2018",1," Can't even sigh in, seeing some flipping g screens and the loading screen"
+365,Alexander Babintsev,"May 2, 2018",1," What this app for? It just shows my subscriptions. I cannot manage anything 
+or do anything."
+366,Rajaram Sapkal,"April 28, 2018",1, This app not stable
+367,Shabbar Taj Mohammad,"May 2, 2018",1, Flipping screens it is not working plz help me out
+368,Ibrahim Shahatit,"March 25, 2018",5," This is a great effort from Microsoft, although it is very far from the full functionality of the Azure Portal, but it is work in progress. I use it mainly to restart web apps when needed. A must have if you use Azure."
+369,A Google user,"April 15, 2018",3," Please add cost and billing features or the dashboard as a rendered view, otherwise ok."
+370,Michal Kvasnicka,"April 4, 2018",5, Well done...!!!
+371,Trent Robertson,"March 23, 2018",1," I can't figure out the purpose of this app. I can't even see a snapshot of the available backups, or settings or anything."
+372,Yusto Omondi,"March 26, 2018",5, This is a great win for Azure users... And having the command line as well is great!
+373,Casper Nielsen,"March 26, 2018",5, Thanks
+374,James B,"May 16, 2018",2," Content can not be downloaded.... being able to actually watch shows seems 
+kind of important. Installed the app to watch ""Adam Ruins Everything"". 
+Apparently he ruined this app because it doesn't work. Back to youtube."
+375,William Schutt,"March 6, 2018",5, You can do almost everything you can in the web portal.
+376,kailash ravuri,"February 20, 2018",3, App is good for quick look at the status of your apps. But search and filter functionality needs to added at every level for now filter is only given to Resource Group level. Better use it on WiFi If you have lots of apps then it eats your data brutally.
+377,Sean Kibbee,"February 21, 2018",3, Nice app for viewing basic things. Wish the online portal supported mobile better or this app did everything the web does. Can't see billing as far as I can tell so that's disappointing.
+378,RAJAT VASHISHTHA,"February 15, 2018",3, Overall app is good but i don't know why i cant open cloud shell on my device it says oops with some very long number type id and closes??
+379,Mahammad Murshudov,"February 15, 2018",5, Great app for quick overview!
+380,Enrico Golfetto Masella,"January 20, 2018",5, Wonderful! Together with Microsoft RDS I'm capable of managing remote machines with easy!
+381,sam rooney,"February 7, 2018",5, very nice to have powershell web cli on android.
+382,Andy Readman,"February 5, 2018",5, Love the ability to use Cloud Shell within the app. Really useful
+383,Ashwani Kumar Singh,"April 7, 2018",5, Awesome application
+384,A Google user,"December 28, 2017",5, Perfect for monitoring status of Azure services while on the road... Not as full featured as web based interface but handy and usefully none the less.
+385,j3224 p,"December 31, 2017",5, Great for a mobile version. Nice to be able to turn IaaS on and of on the go.
+386,Denis Salamanca,"December 27, 2017",3, Needs Copy function for cloud shell
+387,Joseph Wallis,"January 21, 2018",2, This app provides very little utility for backup customers
+388,A Google user,"July 10, 2018",4, cloud shell 是否可以添加命令联想功能？
+389,Sachin Tiwari,"January 24, 2018",3, ARM VM and portal in not present
+390,Jon Hackett,"January 8, 2018",1, Can't login. I get a 404.
+391,Janaka Dissanayake,"December 14, 2017",4, Helps me monitor and occasionally manage my Azure infrastructure through mobile. I am really happy about the cloud PowerShell integration with the app. Hope the developers would add a mighty TAB button somewhere near the keyboard to make it more user friendly.
+392,Jeff Nall,"December 14, 2017",4," Outstanding, except notifications arent working for me.  If you have things hosted in Azure, install this app now.  You need it."
+393,Naveen Yadav,"December 4, 2017",5, Why not include a widget to shut down and start  a VM
+394,Jaydeep Ranipa,"December 13, 2017",2, Not very Rich app. It's just a monitoring app. You cant create anything.
+395,Chris Clos,"November 28, 2017",3," Have to hit back when trying to sign in, to get the sign in screen. It seems pretty decent, would be a ton better if I could make changes in the GUI. The powershell option seems to be interesting but it's hard to do without tab completion.  Can't see info on azure site recovery though which was one ...Full ReviewHave to hit back when trying to sign in, to get the sign in screen. It seems pretty decent, would be a ton better if I could make changes in the GUI. The powershell option seems to be interesting but it's hard to do without tab completion.  Can't see info on azure site recovery though which was one of my main wants."
+396,A Google user,"November 22, 2017",4, Very useful to check vm status start/stop etc
+397,Evgeny Gornov,"November 25, 2017",1, Cannot sign in. Getting error.
+398,Alex Ngugi,"November 22, 2017",5, The app is amazing
+399,Atul Verma,"December 10, 2017",5, Very nice  👌
+400,Mr. Hi Tek,"November 4, 2017",3," I like the app. However, the main set back for me is the very limited view on performance metrics for azure sql database. I would like to customize the metrics to show me info for the past hour (not just the past 24 hours or whatever the default is) also, like the website I can add additional measur...Full ReviewI like the app. However, the main set back for me is the very limited view on performance metrics for azure sql database. I would like to customize the metrics to show me info for the past hour (not just the past 24 hours or whatever the default is) also, like the website I can add additional measurements to the metrics such as CPU, memory, IO on top of DTUs."
+401,Karay Akar,"November 3, 2017",5," Excellent app, that would be nice if we can see billing also."
+402,Francis Cristallo,"November 21, 2017",2, So limited it's almost useless
+403,Vladimir Radulovic,"November 12, 2017",1, Webpage not available always.
+404,Graham Harper,"October 20, 2017",4," Pleased to see some significant improvements. Looks to be very useful for monitoring the basic health of my Azure installations. Still has some interesting bugs and issues, but it's reassuring to see that the development team is responsive."
+405,Kenny Summerville,"October 21, 2017",3," the app is good, but REALLY needs the ability to edit services, also, attempting to manage a custom image classic vm made with azure powershell crashes the app for me. please fix that bug"
+406,Tom Thorp,"October 20, 2017",2, Can't even show basic information such as database quota usage etc
+407,Ashish Raj,"October 24, 2017",2," Due to some reason it won't launch cloud shell from app, I am able to access shell from laptop browser."
+408,Paul Willies,"October 20, 2017",4, Latest update sorted the issue changing directory tenant... makes it a really useful app to have to hand now!
+409,Joey Brakefield,"October 17, 2017",4, This app is great! All that's needed is the ability to switch tenants if the identity has access to multiple just like in the web portal.
+410,A Google user,"October 15, 2017",2, The new version is crashing when you scroll fast in a huge list.
+411,Alberto Castillo,"October 15, 2017",1," New version does not allow to surf between suscriptions, huge step back with this version"
+412,Brad K,"October 17, 2017",1, Works well for virtual machine management.
+413,Sarah Sexton,"October 16, 2017",5, Azure on my phone! So useful!
+414,JJ Streicher-Bremer,"October 14, 2017",5, Great for working with Azure VMs
+415,A Google user,"October 15, 2017",5, Great stuff
+416,Technology Geek,"October 14, 2017",5, Love it
+417,Srikanth Popuri,"October 5, 2017",2, Does not meet the expectations. Helpful only to deallocate vms and to start the existing vms. This App can't even create or delete resource groups. UI sometimes stuck and not user friendly.
+418,Paul Keeney,"October 5, 2017",4, Great app to review resources but needs more control of resources built in
+419,Stanislav Kostenko,"October 7, 2017",4, Cloud shell doesn't work
+420,Himanshu goel,"October 21, 2017",5, Nice app.
+421,A Google user,"September 18, 2017",1," Unable to login when MFA is enabled. Please supply a fix.  Thanks,"
+422,Lee Song,"September 20, 2017",4," Please add cost, subscription credit graph"
+423,SAFE GREEN FOUNDATION,"September 17, 2017",5, Excellent I love it.
+424,Sarat Bisoyi,"September 3, 2017",3, Pls add schedule feature in runbook automation account
+425,Dominic Lennon,"August 30, 2017",3, Good start. It would be nice to be able to manage multiple accounts though (I.e work and personal)
+426,Kåre Schmidt,"August 16, 2017",5, Awesome app - though I should of course be able to request just-in-time access to my VM's though the app!
+427,Paul Shell,"August 9, 2017",5, I switched from Windows phone just for this after watching Azure Friday.
+428,William Wilkinson,"August 5, 2017",5, Wow best app ever can it get any better
+429,Nathan Leach,"July 31, 2017",4," Not great yet, but making itself useful"
+430,Stuart Eggerton,"July 18, 2017",4, Great work Microsoft!
+431,Don H,"July 12, 2017",3, After the update I need to log in.. again. Same as with the MS Teams app. That's getting annoying real quick..
+432,Guilherme Souza Gomes,"July 9, 2017",4, Great start but looking for news features like blob storage navigation.
+433,Stephen Smith,"July 13, 2017",5, Very nice!  Having billing information would be nice though.
+434,Brian Behm,"June 28, 2017",3," Great start but looking forward to more features.  Billing would be great to see.  Cloud Shell is not working for me.  I get an ""Internal Server Error, Unknown Error"" when I start up the Cloud Shell screen."
+435,Gorgi Rankovski,"July 2, 2017",4," Great app, but still missing vital stuff, like billing (cost analysis), performance monitoring and dashboards."
+436,Syed Aqib,"June 30, 2017",3," Lot of things to be added, main thing is scheduling and monitoring the pipeline."
+437,Digvijay Singh Rajawat,"July 2, 2017",4, Nice to see you Azure on my Phone
+438,simon foster,"June 27, 2017",5, Need any beta testers? I like everything Azure look forward to seeing new features get added to this
+439,Cristian-Teodor TATOIU,"June 26, 2017",5," Now we're talking! Finally! 👍 Hell yeah, Cloud Shell!"
+440,Lewis Roberts,"June 21, 2017",3, Installed to see if I could review output or job status of Azure Automation accounts and runbooks but doesn't have the feature yet. For now I use an Instant App (Add to Home Screen in Chrome) and that does the job fine.
+441,Paul Li,"June 21, 2017",1, Abusive permissions. Was working fine before now wants access to identity. Unacceptable
+442,Mark Bell,"June 11, 2017",5, Love it. Love being able to check status of machines and drives on the go. Wish there was a quick view mode to get an overview of all resources' statuses without ha ing to click around.
+443,A Google user,"June 11, 2017",2, Can't see billing. Needs work on general
+444,Christoph Wegener,"June 11, 2017",1, Doesn't show current billing estimate. What's the point of it then?
+445,Google User,"June 3, 2017",3," Sadly, one must log in upon every use. Understandably this should be a highly secure app, so I'm looking forward to seeing better ways to authenticate (fingerprint?). Also looking for multiple accounts/identities support. Otherwise it's fairly useful so far!"
+446,alex lim,"May 26, 2017",5, Great work! App is fast and responsive. Has the common info in place which is all good. One enhancement would be to filter by powered on VMs. Or be able to see VM status from the list.
+447,Simon C,"May 23, 2017",2," After logging in, the app is sluggish and ring to open a resource it just hangs and crashes. Using a Nexus 5x"
+448,klaas langhout,"May 18, 2017",5," Installed, authenticated, checked out my Azure storage account metrics : took less than a minute :)"
+449,A Javeed,"June 1, 2017",5, Aws doesnt have powerfull app like dis
+450,Jeff Bramwell,"May 19, 2017",3, Nice app but needs to support multiple azure accounts.  Would also like to see my current billing usage.
+451,Jan-Hendrik Peters,"May 15, 2017",5, Awesome. It took some time but was worth the wait :)
+452,Hesham Desouky,"May 23, 2017",2," Useless, nothing to do with app services but stop and restart Many properties are displayed with irrelevant and useless info. Even the properties are written like the api json!  More over, metrics display requests only, no cpu or memory!  When the details page load there is no indication that it is ...Full ReviewUseless, nothing to do with app services but stop and restart Many properties are displayed with irrelevant and useless info. Even the properties are written like the api json!  More over, metrics display requests only, no cpu or memory!  When the details page load there is no indication that it is loading"
+453,Sachin Filinto,"June 6, 2017",5, Nice app. Happy I can manage azure resources from my phone when on the move.
+454,Paul Murphy,"May 17, 2017",5, Where is the source?
+455,R J,"May 11, 2017",5," Finally a most awaited thing, please create an app for visual studio online as well or make its web ui itself mobile adaptable like GitHub"
+456,A Google user,"May 10, 2017",5," Finally a great, simple to use app to manage all my resources on the go. The wait was worth it"
+457,Jacob Jedryszek,"May 9, 2017",5, We finally have mobile app to manage and monitor your Azure resources!
+458,Giuliano De Luca,"May 10, 2017",5," All the azure resources in your hand, Cloud Shell coming soon, fantastic !"
+459,Yash Sodha,"May 10, 2017",5, Finally we have an application and can control everything with one small tap :D
+460,Alvaro Dias,"May 9, 2017",5, Love it! I can now manage and monitor my azure services on the go!!
+461,MVS KIRAN,"May 11, 2017",5," Finally one can manage all resources by smartphone, splendid!"
+462,A Mccall,"May 11, 2017",5," Loving the UI; clean, functional, and looks great."
+463,Riza Marhaban,"May 10, 2017",5, Its about time. Powerful tools for Azure management.
+464,Sumant Mujumdar,"May 10, 2017",4, Feature to pause/start a data warehouse resource is required
+465,Hemant Sathe,"May 10, 2017",4, Great to have a tool to manage azure resources
+466,Ravi Rana,"May 12, 2017",5, A great initiative by Microsoft team .
+467,Eugene Fong,"May 11, 2017",3, It has some of the basic portal functions but some don't work such as the connect function to a VM
+468,PrimeHP,"May 11, 2017",5, Powerful tool for azure management
+469,Adam Abdelhamed,"May 11, 2017",5, A great companion to the main portal
+470,shrey shirwaikar,"May 11, 2017",5, Finally!!! Awesome app....
+471,Ben Kevan,"May 11, 2017",5, About time!!!!!
+472,Marck Robinson,"May 9, 2017",5, This is great!
+473,Mike Douglas,"May 12, 2017",5, Great UI and functionality
+474,Sherron Woolf,"July 23, 2018",5," I have wasted an entire 90 day trial just trying to familiarize myself with 
+microsoft and azure. I only hate it's up so soon. I'm trying to set up a 
+paying, for-profit organization to parent a non-pro fit rehabilitation and 
+recovery mission that heals by teaching love and acceptance. I see the 
+n...Full ReviewI have wasted an entire 90 day trial just trying to familiarize myself with 
+microsoft and azure. I only hate it's up so soon. I'm trying to set up a 
+paying, for-profit organization to parent a non-pro fit rehabilitation and 
+recovery mission that heals by teaching love and acceptance. I see the 
+necessity of a cloud-based, cheaper, faster, and simpler environment in 
+order to manage the broad and challenging aspects involved in running an 
+organization"
+475,Guy Johnson,"June 20, 2017",1, This app tells me mothing about my Azure environment except to give a list of everything. Useless.
+476,Juuso Sokura,"June 19, 2018",1," After latest update, valid credentials are no longer working rendering 
+azure app useless."
+477,Subhash Das,"January 15, 2018",5," My andriod phone needed Mac os business version.This azure app help me Mac os version setup, install, and activate for help me."
+478,lehlohonolo glen,"July 21, 2017",5," Great App on IOS. Hope to see how it performs on Android platform, wish to see capability of running Powershell via app in future."
+479,Sandesh Karki,"October 16, 2017",3," I tried to use cloud shell but it says cant provision cloud shell, and it gets stuck forever while restarting shell"
+480,Алексей Веткин,"April 21, 2019",1, Списали деньги дважды при отмененной подписке. Все что нужно знать об azure.
+481,A Google user,"June 10, 2017",5, All my files!! Yay
+482,Hammad Abbasi,"July 29, 2018",1, Keeps crashing on note8
+483,A Google user,"July 7, 2018",3, Can't check costs !!!
+484,A Google user,"May 29, 2018",3, No Govcloud access :(
+485,hani alzayan,"October 4, 2017",5," Good step from Microsoft,  to deal with your stuff on cloud"
+486,Priscilla Mitchener,"August 4, 2018",5," priscilla,new microsoft azure guide."
+487,S Yandex,"November 11, 2019",5, Must have
+488,Spy N Buy videos,"December 11, 2017",5, Free best Ms supported app
+489,Key international Enterprise technology solutions,"July 30, 2018",5, #keyinternationalacademy
+490,STUDIO BASS,"June 1, 2017",5, I like it
+491,Ian Mubangizi,"December 18, 2017",1, Keeps crashing
+492,Alejo Astalmi,"August 26, 2017",5, Very well done. Thanks
+493,TheBinaryGuy,"May 13, 2017",5, Just what we wanted!
+494,Srikanth Reddy Varakantham,"September 11, 2018",5, Very good and pretty cool
+495,H. Rashid,"May 12, 2017",5, Finally....
+496,Abhishek Pandey,"May 27, 2017",1, Waste
+497,Mirko Bonello Dynamics 365 Power Platform Blog,"August 15, 2018",5, Awesome azurebapp from Microsoft
+498,JUAN ORTEGA,"February 12, 2020",4, Moto Microsoft Azure
+499,Ali Akhtar,"October 25, 2017",5, Good work
+500,A Google user,"March 7, 2019",5, Well
+501,Nur Rahmat Dwi Riyanto,"August 10, 2017",5, Wowww
+502,VSP Virtual Support,"November 29, 2017",5, Nothing
+503,Frank Chambillo,"June 6, 2017",5, Great!
+504,J.B.D. King,"May 10, 2018",5, Amazing!!
+505,Synixx,"April 18, 2020",4, Amazing !!
+506,Aries Taurus,"April 23, 2020",5, Awesome!!!
+507,A Google user,"December 27, 2017",5, Great app
+508,Rex Raphael,"September 21, 2018",5, Great app
+509,Lakkala Rakesh,"May 18, 2018",5, Azure Da
+510,qadeer ali,"September 23, 2019",5, Nice app
+511,M. Arman Uz Zuha,"January 2, 2020",5, Very useful
+512,Abhishek Gupta,"May 10, 2017",5, Awesome
+513,Pedro Serrano,"October 7, 2018",1, Difficult
+514,Khaled Ansar,"March 26, 2020",5, Excellent.
+515,Muminjon Abduraimov,"February 1, 2020",5, Amazin'
+516,Sarthak Varshney,"May 12, 2017",5, Nice
+517,Tony Mcgee,"October 19, 2019",5, Excellent
+518,Tracey Anne Mackray,"May 26, 2017",5, Good
+519,Nelson Lickey,"February 21, 2019",5, great
+520,Clinton Duckworth,"May 31, 2018",5, Luv
+521,Baitul Aman,"August 27, 2019",4, Awsome
+522,BAUAMS BAUAMS,"September 3, 2019",5, Good
+523,BAUAM BAUAM,"September 18, 2019",5, Good
+524,Aliya Sharma,"February 27, 2020",5, good
+525,Patrick Mic Kohlwey,"April 13, 2020",5, Nice

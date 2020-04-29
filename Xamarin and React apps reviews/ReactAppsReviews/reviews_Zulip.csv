@@ -1,0 +1,100 @@
+index,author_name,review_date,reviewer_ratings,review_body
+0,Hayder Sinan,"April 24, 2020",3, There's no ability to share anything from another app to it. Also video can't be played directly. And the list of users I have chatted with disappear I have to search for the User again to write to him
+1,Divyanshu Agrawal,"February 2, 2020",5," One of the best tools for collaboration! The dark mode is neat and I like the idea of topic based communication. Ability to integrate with bots/services easily is great, too! Plus, it's open source!"
+2,Kane Chang,"December 26, 2019",1," I was using the legacy version. But two days ago it cannot work anymore. For this version of Zulip, I cannot connect to my organization's server. Completely dead...."
+3,Lucas Durand,"January 20, 2020",2," Sometimes messages come in. Other times I'm ""offline"" and get an email. Those messages often never arrive in the app."
+4,Deb Deep Sett,"November 23, 2019",4, Please fix issues with opening pdf files. Sometimes it wont open them at all
+5,Larry Singa,"April 26, 2019",2," I can only use the mobile app to receive notifications, but not to work with. It's too time-consuming to search/jump between different chats, and many search queries are not supported. It would be nice to have the same search capacity as in the web app."
+6,Jarett Poole,"September 25, 2019",3," The biggest thing this app needs is a left panel, like the desktop client. Navigation is simply too clumsy and time-consuming. I really love this platform but the mobile app is just not easy to use and is keeping me from implementing this at my organization."
+7,ashlae blume,"February 18, 2020",3," Great on desktop, buggy on phone. Needs more feature control."
+8,Rombout Versluijs,"April 25, 2019",3, the app is simple and works nice. how ever when your comment is longer than your screen you cant scroll down and your basically typing blind until it appears on screen. rotating the phone does give an option to clean done.that should show in portrait mode aswell
+9,Andrew Johnson,"September 20, 2019",2," Can't rely on notifications. Doesn't switch to relevant account when opening notification, opens last used account. Without reliable notifications its very stressful and time consuming to cycle through accounts to check for new messages."
+10,David S.,"April 20, 2019",1, So buggy; it is completely unuseable. Sends messages twice or not at all. Doesn't load new messages. Incomplete user and stream list. The list goes on and on.
+11,Michael The Awesome,"November 28, 2018",1," This app is more indicative of a react native demo than a professionally made application. In terms of settings, why can't I access the same advanced settings as the browser(or even normal ones, I want to change my profile picture)? Why am I allowed, as a user, to access the app's environment variab...Full ReviewThis app is more indicative of a react native demo than a professionally made application. In terms of settings, why can't I access the same advanced settings as the browser(or even normal ones, I want to change my profile picture)? Why am I allowed, as a user, to access the app's environment variables? It took me five minutes to actually find my name to @, because there's no current user summary. Why isn't the subscribed panel selected by default? Discord, Slack, Telegram, and Gitter's mobile apps are much better than this."
+12,Mike,"November 17, 2019",1, When I try to open Zulip all get is a white blank screen.... Real shame!
+13,Wyatt Hoodes,"June 11, 2019",5," Awesome and open source! If one were to run into any problems, the community is very responsive and fast-acting."
+14,Alexey Barinov,"October 15, 2019",3," Cannot use external communication device (3g modem) to install app via smart installer. installed app which is set to start with Windows, does not normally work until app restart having internet connection active"
+15,Ethan Roush,"October 24, 2019",2, The UI is a tad hideous and navigation is a bit of a pain. My biggest complaint is that you NEVER get notifications for any messages.
+16,Sumanth Rao,"December 17, 2018",5, Easy to use platform. Helps manage clutter of messages received with ease. An awesome product! 👌
+17,Dawid W,"June 24, 2019",2, Quite buggy. Sometimes new messages don't load and even restarting the app doesn't help.
+18,Critical Mass,"November 27, 2019",3," It is useful, but crashes often."
+19,Alexander Lunev,"July 11, 2019",5," Exactly what I need for projects concerning streams and topics, and ability to move messages from one topic to another"
+20,Dan Farrell,"February 21, 2019",1," i can never find new messages in this app, even after notification that they arrived. for me, this app is effectively nonfunctional."
+21,Aaron Lease,"November 7, 2018",4," I like it so far - nice that you can host a Zulip yourself as well 👍 Will Zulip be getting 2FA any time soon, or is it already there and I missed it?"
+22,HamidReza Molaei,"May 20, 2019",2," right to left languages not supported yet,"
+23,Chris Georgen,"October 21, 2019",5," Not sure what the negative reviews are referencing. Our company has been using Zulip for months now, and it's great!"
+24,LongBoarder Anonymous,"April 15, 2020",3, What about invites from this App?
+25,Sandy Bucket,"April 10, 2019",5, thank you for all the great ux!
+26,Michael Potter,"February 27, 2019",3, no way to really edit profile in app
+27,Pea Nguyen,"September 17, 2019",2, Bad user experience
+28,I D,"February 17, 2020",4, Как удали личную переписку с другим пользователем?
+29,Alexander vT,"August 30, 2019",2, incredible buggy
+30,Darth Chillash,"July 3, 2019",4," Works very good. Please make the Android app icon adaptive, not just circular."
+31,Reza Armin,"August 29, 2018",4, Hi. The members do not show on app just can see past chats done by windows software. Please advice and support
+32,Daniel Malik,"August 23, 2018",1, It doesn't send messages.
+33,A Google user,"August 3, 2018",2," Cant get any notification, whats the point of having this app"
+34,Shantnu Kumar,"September 1, 2018",5, More than Just A Chatting App. Must Have app for any size organization. I personally Recommend trying this app once.
+35,Tristan Tarrant,"June 7, 2018",5," The streams/topics feature alone sets this apart. Great collaboration tool 
+that allows narrowing down to the single conversation while not losing 
+track of concurrent discussions"
+36,Shashi Kumar Fagna,"August 2, 2018",3, Improve ui very hard to understand
+37,A Google user,"June 10, 2018",1, Not native. Doesn't feel good at all
+38,Greg McCoy,"May 14, 2018",5," Great app with a well thought out layout. Would love to see ability to add 
+new user and edit profile on the app in the future."
+39,Nikola Toshev,"April 19, 2018",4," Great concept and great app. However, creating new streams from the app is 
+currently not working."
+40,zingmars,"January 26, 2018",3," Switching between views takes ages, there isn't enough feedback when doing things like holding a message and the image viewer's menu is buggy and nothing works. The old app is still more stable, but because they've been changing the API some things are buggy on it too, so in the end neither app is r...Full ReviewSwitching between views takes ages, there isn't enough feedback when doing things like holding a message and the image viewer's menu is buggy and nothing works. The old app is still more stable, but because they've been changing the API some things are buggy on it too, so in the end neither app is really any good. I love zulip, but O wish the apps were better."
+41,Connor Sullivan,"January 16, 2018",5, Zulip offers a very streamlined service. The way that rooms are divided into groups rather than topic also offer a nice way to divide things up. I also prefer the UI of this app over others like Slack.
+42,Srinivas Adireddi,"December 29, 2017",5, This is my favourite group chat. It's very productive and cool! I can catch up useful messages and ignore unnecessary ones! Simple. Must try for sure.
+43,A Google user,"October 10, 2019",4," Better than rocketchat, mattermost or slack. My first comment was 2017. Saddly zulip still not popular ☹️"
+44,Sethu Senthil,"December 28, 2017",5," A different approach to business chatting. Instead of topics, chats are built around groups. This could be helpful depending on your work flow. A cleaner UI would be a great addon."
+45,Jonathan Dayem,"January 13, 2018",5," Clean UI, easy, accessible, would recommend to anyone! Zulip is great alternative to any other open source group chat as well."
+46,A Google user,"January 1, 2018",5, Zulip is an appropriate way to communicate with programming topics and best way to get feedback on their scripts and is really helpful to beginner to do codding. Good way to operate an react native app!
+47,ThinkDiff S'kool,"January 12, 2018",5, Zulip is an excellent platform which is open source and has an edge over slack.It is a very good alternative for hipchat and Mattermost.Zulip is self hosted whereas slack is proprietary SaaS
+48,Aneesh Malepatal,"December 28, 2017",5," Hi, my name is Aneesh Malepatal. I am a student worki mg on the Google Code-in project. Zulip is the best business chat app."
+49,Saathvik D M,"December 29, 2017",5, Great app. Better than its counterparts like slack etc. User friendly UI and good support team with a good community.
+50,Omkar Pansare,"January 3, 2018",5, Zulip is one of the best apps on the play store for its ability to provide an easy conversation between multiple people.
+51,Aditya Chaurasia,"January 12, 2018",5, This app is brilliant! It's way better than Slack! It's GREAT for group chats! Would definitely recommend it.
+52,Alexander Chu,"January 6, 2018",5, Very user-friendly. Love how it is open-sourced and allows integration. Overall it is an extremely clean and smooth app.
+53,Sidhaarth Krishnan,"January 5, 2018",5, This is awesome! It's very useful for topic chats and is a great open source app
+54,Jerin R,"January 6, 2018",5, A better pathway which provides young budding programmers and coders a source of good interaction
+55,A Google user,"December 30, 2017",5, Zulip is a great app that is very easy to use.The ui is intutive and well made.
+56,Dhvanan Kotecha,"January 5, 2018",5, Wonderful Social App.  Best App for Freelancers. Nice tech Community.  -Dhvanan Kotecha
+57,Aditya Jeppu,"January 12, 2018",5, Great. Better than slack. Easy to use.  Would highly recommend using this.
+58,Aashish Chaudhary,"December 28, 2017",5, Its an awesome app ..far better than slack and others..
+59,Gabriel Lee,"January 4, 2018",4," Great app, encourages communication and collaboration."
+60,Haricharan S P,"December 19, 2017",5, Instead of rooms or channels Zulip is built around topics. This allows us to have multiple conversations at the same time without conversations interfering with each another. It also allows us to reference conversations without clutter. Its threaded model helps people working in different timezone's...Full ReviewInstead of rooms or channels Zulip is built around topics. This allows us to have multiple conversations at the same time without conversations interfering with each another. It also allows us to reference conversations without clutter. Its threaded model helps people working in different timezone's communicate effectively.
+61,MadElf,"December 19, 2017",5, One of the best platforms in the market for chatting with various professional developers & coders from various communities. Zulip is really the most powerful & open source group chat platform
+62,Gaurang Goel,"December 19, 2017",5," It is one of the best apps of the playstore, providing a best platform for chatting, user friendly , convent to use, very helpful for beginners as well."
+63,A Google user,"December 21, 2017",5, Best platform to communicate and be connected socially.... Go for it download u wont regret...
+64,Parismita Das,"December 17, 2017",5, Its user friendly and very convenient app to keep contacts with teammates.
+65,carol y tew,"December 6, 2017",5, Zulip is a great way to communicate on programming topics and is really helpful to beginner and more advanced programmers as a way to get feedback on their scripts. Good way to chat!
+66,Rajeev Srivastava,"December 3, 2017",4, Great app for chatting! Colorful streams manage the conversation threads the best! Hassle-free. Best for group chats.
+67,srihari unnikrishnan,"December 8, 2017",5, It is the greatest open source chat app I have ever used
+68,Беден Буџи,"December 4, 2017",5," I like the app in general, the ui is nice too :D"
+69,Ravin Hewage,"December 4, 2017",5, Great app for group chats. Like it very much.
+70,Ryazl,"December 3, 2017",5, An amazing app! Really good for chatting!
+71,Dimitar Boyadzhiev,"November 13, 2017",2," Very laggy and counter intitive compared to the linux desktop app, also is missing some features, like renaming a topic for example."
+72,Boris Yankov,"November 10, 2017",5, Slick and fast chat app.
+73,Brian Peterson,"December 5, 2017",3," The Android client doesn't use notifications for new posts, so it falls far short of every other messaging app I've used.  Some options for what topics, channels, private messages, mentions of your name, etc. would cause a notification would make this a killer app.  For now, I'll just stick with the...Full ReviewThe Android client doesn't use notifications for new posts, so it falls far short of every other messaging app I've used.  Some options for what topics, channels, private messages, mentions of your name, etc. would cause a notification would make this a killer app.  For now, I'll just stick with the desktop UI and web UI."
+74,Vishwesh Jainkuniya,"September 27, 2017",5," Nice unread counts, notification, dark theme, multiple realms etc"
+75,Rishi Gupta,"September 28, 2017",5, Great app. Gets better every week!
+76,Adam Piontek,"August 23, 2018",2," App behaves ok, a little slow, but what really bugs me is no emoji picker. A server/client chat system capable of custom emoji needs an emoji picker in all clients."
+77,Dev Vora,"December 9, 2017",4, Really good app! It is alternative to slack and good thing is its open source. Really useful for teams to have group discussion. It should have splashscreen in app and needs some more features like of slack.
+78,N g u y ê n,"December 3, 2017",5, A really good app for open-source group chat! It's also extremely helpful for students who are trying to complete the tasks in Google Code-in contest.
+79,Vishwajeet Tripathi,"January 1, 2018",5, I liked the app very much . I have been using it for about a week and it has been a lot useful to me . The video call is awesome and you can have rich calls with it.
+80,Joseph Stanley,"January 11, 2018",5, Zulip makes team collaboration easy and hassle-free and creates a productive and efficient work environment for the whole team.
+81,Aditya Upadhyay,"December 29, 2017",5, Zulip is by far the best group chat app I have used I am submitting this Review as it is a task in Google code in but my opinions are entirely my own
+82,Smit Rambhia01,"December 17, 2017",5," Zulip is a user friendly application for group chatting, convenient to use even for beginners and a  great way of communication with friends and family. Great work team Zulip."
+83,shilpa kulkarni,"December 20, 2017",4, Great App to get in touch with experienced coders who might help the rookies. Especially good for newbie coders.
+84,Abhay Kumar,"December 17, 2017",5, In my way we can easily chat with the people and it is fast chat app. All in all the overall look of chat is nice . And very attractive
+85,Rajul Jha,"December 19, 2017",5, Zulip is a great way of interacting with people and learn more about programming and stuff like that.I would surely recommend using Zulip to youngsters and beginners.
+86,Krishna Kaipa,"January 7, 2018",5, This app is a really good for group chat and it is quite productive. More development and debugging will make this much more better.
+87,the doodle,"January 10, 2018",5," Ots really good app for sharing  Supports startups such as itself  Again,really good"
+88,kavin raja,"January 6, 2018",5," It's soo amazing, the UI is simple, all my friends started using it. Good job keep it going"
+89,Ludicrous,"January 12, 2018",5, I could recommend this app without blinking. Both the desktop and mobile versions are great. Even the free version is full of features.
+90,Shy Mel,"December 18, 2017",5," It is user friendly and easy to use, very convenient to keep contact with teammates. It is helpful for both beginners and the advanced."
+91,Albin Myscich,"December 18, 2017",5, It's a great app! Straightforward and easy to use.
+92,Ramesh Kuppili,"January 10, 2018",3," I love this app, as there are not much ads. And enables fast and free group chat."
+93,hak st,"December 19, 2017",5, Great and convenient chatting app!
+94,I admit Justin Bieber is the best,"January 5, 2018",5, Great app and really helpful.. Keep it up Zulip:)
