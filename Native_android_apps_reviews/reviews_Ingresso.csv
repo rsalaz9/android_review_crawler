@@ -1,0 +1,626 @@
+index,author_name,review_date,reviewer_ratings,review_body
+0,Santuzza Affonseca,"September 28, 2019",1, My friend to tried many times to buy the tickets through the app and didnt work so I had to buy for her and her husband
+1,Robert De Borba,"June 7, 2019",5," Great app, makes the cinema experience all the best!"
+2,Marcelo Furtado,"June 22, 2019",1, crashing on Android (Galaxy S9+)
+3,Nanderson Fragoso,"November 2, 2018",5, The tax to buy a ticket is expensive.
+4,Caique Andrade,"March 7, 2019",5, Muito útil ! Too much useful.
+5,Daniel de Araújo,"January 5, 2019",5, practical and simple
+6,Robson Casimiro,"July 21, 2019",5, One of the best ticket purchase!!!
+7,Reginaldo de Oliveira,"March 9, 2019",5, very good and faster
+8,Hamilton Apolinario,"December 21, 2019",5, Bert está do use.
+9,tetsu koike,"July 13, 2019",5, Easy - Nice - Cool! good job :)
+10,CaroliNerd,"October 26, 2018",5, That's amazing app
+11,Alan Romagnoli,"March 10, 2019",5, So far so good!
+12,willian lange,"July 22, 2019",5, very good.Nice app
+13,erik coquieri,"April 5, 2019",5, it's really usefull
+14,JC Tutoriais,"April 1, 2019",5, I like it.
+15,Dennis Felippa,"February 15, 2020",1, Péssimo! Não mostra o resumo do pedido antes de pagar. Se não colocar 3 dígitos do cpf bloqueia o carrinho.
+16,Vinicius Lima,"April 7, 2020",3," Bom, mas poderia ser melhor em relação a aplicação de filtros"
+17,João Cordeiro,"February 27, 2020",5," Funciona bem, nunca tive problemas"
+18,Guilherme Souza,"February 26, 2020",5," Funciona como esperado, continuem polindo. 👏👏👏"
+19,Amanda Barros,"March 7, 2020",5, Adoro
+20,erick trentin,"February 15, 2020",5, Good
+21,Raphael Maio,"February 14, 2020",3, App muito lento. As vezes não executa as funções. Mas ainda e muito melhor que ter que esperar na fila da bilheteria.
+22,Paulo S. Oliveira,"January 11, 2020",5, Funciona bem o processo de compra
+23,Mundo FGP,"January 30, 2020",5, Ótimo
+24,Carlos SB,"February 9, 2020",5, Good
+25,Edgar Martins,"December 19, 2019",1," Péssimo! Apresenta diversas falhas na hora de finalizar os pedidos. Testado com 4 cartões diferentes e em cada um ocorre erros aleatórios. Em um dos casos indicou que o número do cartão era inválido sem finalizar o pedido, mas mesmo assim debitou o valor da conta. A cada 10 vezes que já tentei usar ...Full ReviewPéssimo! Apresenta diversas falhas na hora de finalizar os pedidos. Testado com 4 cartões diferentes e em cada um ocorre erros aleatórios. Em um dos casos indicou que o número do cartão era inválido sem finalizar o pedido, mas mesmo assim debitou o valor da conta. A cada 10 vezes que já tentei usar o aplicativo, 6 apresentou falhas na finalização da compra. Não pretendo utilizar novamente."
+26,Atilla Djan Erkan,"December 21, 2019",1," É tão cheio de bugs que a experiência de compra beira o insuportável. 80% das vezes eu desisto e vou pessoalmente ao cinema só pra não ter que passar por isso. E como se não bastasse, cobram uma taxa de ""conveniência"" estratosferica, como se a experiência de compra fosse top."
+27,Victor Freitas de Sousa,"January 2, 2020",1," Uma das piores experiencias que ja tive com aplicativos de compra online, aplicativo confuso e que não comporta vários usuários na mesma plataforma. Uma dica? Compre direto no cinema e não tenha dor de cabeça."
+28,Raíssa G,"December 19, 2019",4," app maravilhoso, sempre funciona, não preciso pegar fila, mostra meus cinemas favoritos primeiro, só acho um exagero cobrar a taxa de compra online pra cada ingresso, ao invés de cobrar uma só por todos os ingressos comprados juntos."
+29,Adriano Domingues,"January 4, 2020",5, Ótimo aplicativo! Ótima UI e bem prático. Só acho caro as taxas cobradas por ingresso individualmente.
+30,Yuri Bezerra Sousa,"January 7, 2020",5," Melhorou muito nos últimos 4 anos. Depois que adicionaram (tardiamente, mas adicionaram) a opção de usar o KM de vantagens do Ipiranga ficou muito melhor. Uma perguntam, se os cinemas já pagam a vocês, por que devemos pagar a taxa de serviço ? Não vejo nenhum sentido nisso, a não ser mais uma daquel...Full ReviewMelhorou muito nos últimos 4 anos. Depois que adicionaram (tardiamente, mas adicionaram) a opção de usar o KM de vantagens do Ipiranga ficou muito melhor. Uma perguntam, se os cinemas já pagam a vocês, por que devemos pagar a taxa de serviço ? Não vejo nenhum sentido nisso, a não ser mais uma daquelas taxas abusivas neste Brasil."
+31,Marcio Segan,"December 22, 2019",5, Gosto muito! Só não gosto de pagar a mais pelo ingresso!
+32,Higor Miranda Santana,"December 25, 2019",1," Vários bugs, processamento lento e falta de navegabilidade"
+33,Vitor,"December 15, 2019",4, Promoção com o Google Pay não funciona (banco Itaú)
+34,Vinícius Munhoz,"January 4, 2020",1," Usabilidade péssima, só uso pq é um monopólio"
+35,Emmanuel Cordova,"December 21, 2019",4, Tá meio bugado. Não mostra os pôsteres dos filmes.
+36,R3LL,"December 20, 2019",5," Muito bom, experiência bem fluida e objetiva."
+37,James Tompkins,"December 26, 2019",3, Queixo duro.
+38,Ian Rocha,"December 20, 2019",5, Excelente!
+39,Ivan Ferreira,"December 30, 2019",4, Bom app
+40,JoaoHenrique Almeida,"December 22, 2019",5, Bom
+41,Luiz Antonio Pereira de Souza,"January 1, 2020",5, Easy experience.
+42,Luciano Gavinho,"January 18, 2020",5, Pretty nice
+43,William Souza,"December 14, 2019",5, great
+44,Fabio Renato Pavan,"January 2, 2020",5, Nice
+45,Ricardo Borges,"December 8, 2019",2, Solicitou a atualização da senha mesmo eu usando a conta do Google. Não tem opção de colar no input do número do cartão de crédito. O carrinho de compras resetou do nada.
+46,Gabriel Macedo,"November 22, 2019",1," Na boa, melhora essa forma de pagamento ai do app de vocês. Que seja uma única forma de pagamento mas que funcione. Fala de uma promoção do Google Pay no Débito e o app diz que não é válida depois de eu fazer todo o processo. Pagamento via PayPal que diz ""Obrigado por escolher pagamento via Paypal"",...Full ReviewNa boa, melhora essa forma de pagamento ai do app de vocês. Que seja uma única forma de pagamento mas que funcione. Fala de uma promoção do Google Pay no Débito e o app diz que não é válida depois de eu fazer todo o processo. Pagamento via PayPal que diz ""Obrigado por escolher pagamento via Paypal"", quando retoeno pro app não autenticou o pagamento e não só uma vez. Melhorem!"
+47,Vitória Martins,"November 20, 2019",3, Não aguardam chegar ao final da compra e já dão o lugar pra outra pessoa. Revoltante.
+48,Pedro,"December 9, 2019",5, Poderia expandir mais os tipos de pagamentos de débito e fazer mais parceria com aplicativos para ter mais promoções
+49,prod. Wave-9B,"November 24, 2019",5, Única coisa chata é ter que ficar trocando de senha
+50,Fernanda Procópio,"November 21, 2019",5, acho muito prático e excelente! parabéns cine Araújo!
+51,Zé,"December 13, 2019",1, Taxas abusivas. App cobra 20% do ingresso. Não recomendo.
+52,Guilherme Banci,"December 10, 2019",5," Excelente app, o melhor"
+53,Eva Apollaro,"November 15, 2019",5, Muito bom
+54,Joshua Antoni Rivas,"December 30, 2019",5, Otimo
+55,Carlos Gurgel,"November 24, 2019",4, Very good
+56,Rafael Santos,"December 11, 2019",5, Excellent
+57,Gustavo H.,"October 19, 2019",3," Funciona. Taxa é um pouco alta, mas o pior mesmo é favoritar cinemas mas não filmes. Qual o propósito disso? Preferia mil vezes mais opção de seguir/favoritar um filme para receber notificações quando entrar em cartaz."
+58,Giovanni Pigola,"October 19, 2019",3," Sistema não bloqueia o assento escolhido, fazendo você ter que começar o processo do início caso comprem antes. Aplicativo também não persiste as credenciais da conta entre acessos, forçando reinserir e-mail e senha novamente toda vez que usa."
+59,Henrique Rangel,"November 3, 2019",4, A parte de selecao de assentos poderia ser melhor. Com o contraste atual nao é possivel ver as letras das fileiras.
+60,Ramon Garcia,"October 22, 2019",5, Comprar ingressos de cinema mais fácil e rápido que isso não existe. Praticidade demais!
+61,Daniel Tavares,"November 2, 2019",4, Muito bom mas tem que melhorar pois as vezes aparece mensagens de conexão.
+62,Tulio Lamas Mendes,"November 11, 2019",5," Evitar filas, consultar programação dos cinemas de todo o Brasil, sinopse, threiler... Mto bom!"
+63,Paulo Queiroz,"October 25, 2019",4," o aplicativo melhorou muito, ainda dá erro com o Google play"
+64,King Sumo,"October 19, 2019",1, Sempre trava na lista de pedidos! ASUS_Z01KD
+65,Camila Claudino,"November 1, 2019",5, Muito bom!
+66,Erich Dias,"October 29, 2019",4," Muito bom, mas poderia aceitar vale cultura."
+67,Neith Freire,"November 2, 2019",5," Excelente, rápido, prático."
+68,Natalia C. Vieira,"October 19, 2019",5, O aplicativo é muito bom!
+69,Andreza Kelly,"November 10, 2019",5, Gostei muito da opção por debito 😊
+70,Daniel Melo,"October 26, 2019",5, Muito bom!
+71,Fran Alves,"December 20, 2019",5, Muito legal!
+72,lucas alves da silva,"November 12, 2019",5, Ok
+73,Pedro Lacerda Costa,"October 27, 2019",5, Great.
+74,Fernanda Cestari,"October 11, 2019",1," eu amava o app, comprava direto só por ele todos os meus ingressos, mas de umas semanas para cá começou a dar erro nas compras, dizendo que tem diferença entre o valor pago e o valor total, o que não faz sentido nenhum, pois o valor cobrado e o valor total aparecem os dois como o mesmo para mim. dec...Full Revieweu amava o app, comprava direto só por ele todos os meus ingressos, mas de umas semanas para cá começou a dar erro nas compras, dizendo que tem diferença entre o valor pago e o valor total, o que não faz sentido nenhum, pois o valor cobrado e o valor total aparecem os dois como o mesmo para mim. decepcionada. já reinstalei, usei métodos diferentes de pagamento, tentei cinemas diferentes... nada ajuda."
+75,Matheus Henrique,"October 3, 2019",1," Você paga taxa de conveniência e a ainda tem que aguentar propagandas no aplicativo, é mole"
+76,Gabriel Rigoleto,"October 5, 2019",1, O site me forçou a cadastrar uma nova senha porém o link de cadastramento da senha está fora de ar 🤦. Não consigo comprar o ingresso enquanto isso as cadeiras estão acabando
+77,Rodrigo Chon,"October 3, 2019",1," App muito irritante, mais complica do que facilita. Decisões estúpidas como dificultar ver o número de assentos, desativar seu login sem aviso, entre outros problemas. Sem contar que não dá para ler o nome de lugares muito longos."
+78,Mateus Messias,"September 29, 2019",5, Me ajuda bastante! É versátil tanto na hora de ver os horários quanto no momento de comprar os ingressos.
+79,Leonardo Carvalhães,"September 24, 2019",5," Muito bom, simples prático e funcional! Uso muito os atalhos direto da tela inicial."
+80,Gabriel Soares,"October 2, 2019",1, Sistema não deixa comprar ingresso como estudante de jeito nenhum. Será de propósito?
+81,Danilo Pereira,"October 12, 2019",5," Fácil de usar, e facilita muito na hora de comprar o ingresso."
+82,New Maxtes,"September 25, 2019",5, Consideravelmente o melhor aplicativo para compras de ingressos de filmes.
+83,Lilian Queiroz,"October 11, 2019",3, Muito bom mas trava com bastante frequência.
+84,Thiago Russo,"October 7, 2019",5, Bom APP. O melhor de ingressos
+85,Rafael Rabassa,"October 4, 2019",5, Excelente app. Rápido e simples
+86,Thales Romeiro,"September 27, 2019",3," Nem fede, nem cheira."
+87,BotRuan,"October 12, 2019",5, Legal
+88,Matheus Campos,"October 15, 2019",5, Awesome!
+89,Murilo Salvador,"June 30, 2019",1," o aplicativo nao funciona para mim ja faz um tempo. quando seleciono o horario do filme que quero, a tela do carrinho fica carregando e nunca abre."
+90,Rafael Freitas,"August 7, 2019",1," Não é possível ver o preço dos ingressos a partir da lista de sessões do filme, eu pessoalmente ligo mais pra isso do que até os horários exatos das sessoes. É comum ter uns 4 tipos de sessão por cinema, e mais uns 4 cinemas diferentes, é absurda a idéia de simular uma compra em cada uma dessas opçõ...Full ReviewNão é possível ver o preço dos ingressos a partir da lista de sessões do filme, eu pessoalmente ligo mais pra isso do que até os horários exatos das sessoes. É comum ter uns 4 tipos de sessão por cinema, e mais uns 4 cinemas diferentes, é absurda a idéia de simular uma compra em cada uma dessas opções pra saber os preços."
+91,Luiz Paulo Laureano,"June 24, 2019",4, a taxa de conveniência poderia ser menor ja que é o único meio de comprar sem ser no próprio cinema
+92,Jhosef Marks,"June 29, 2019",2," O problema na compra é que eu preciso sempre fazer 2 compras já que o máximo de ingresso que eu posso comprar é 4 por vez, tenho 3 filhos e quando quero levar a família o serviço é dobrado."
+93,Jean Pierre Borges de Sousa,"June 29, 2019",1," App por algum motivo resetou minha senha sem solicitação, ficando com erros durante o acesso, enquanto a senha não foi refeita o acesso não foi liberado! Inaceitável que um App com a função de vendas de ingressos exiba anúncios desnecessários na aplicação, com o nítido motivo de capitalizar a aplica...Full ReviewApp por algum motivo resetou minha senha sem solicitação, ficando com erros durante o acesso, enquanto a senha não foi refeita o acesso não foi liberado! Inaceitável que um App com a função de vendas de ingressos exiba anúncios desnecessários na aplicação, com o nítido motivo de capitalizar a aplicação!"
+94,Thiago Castilho,"July 21, 2019",3," Mesmo após eu selecionar os assentos, preencher todos os dados corretamente, chego no final e fala que os assentos já foram selecionados, fazendo com que eu retorno à primeira etapa para preencher tuuudo de novo com o mesmo risco."
+95,Diego Devecchi,"August 1, 2019",5," Ótimo app. As taxas poderiam ser um pouco menores, mas ainda assim é a melhor opção na praticidade para se comprar ingressos. Recomendo!"
+96,Eduardo Viana de Almeida,"July 18, 2019",1, uma droga. fiz duas compras. recebi dois codigos. mas o sistema so emitiu uma delas. fala que a outea nao existe. mas fez a cobrança da mesma. no cinema os atendentes ficaram me jogando para la e para cá. ninguém sabe ninguém viu... NAO RECOMENDO
+97,Bells Mehl,"June 22, 2019",5," Pelo app podemos saber e comprar com antecedência filmes que estão na pré estréia. Além de ser um modo fácil e seguro de comprar seu ingresso, podemos escolher nossos lugares, o cinema que queremos ir e retirar o ingresso na bilheteria. O app oferece conforto e comodidade, para que possamos assistir...Full ReviewPelo app podemos saber e comprar com antecedência filmes que estão na pré estréia. Além de ser um modo fácil e seguro de comprar seu ingresso, podemos escolher nossos lugares, o cinema que queremos ir e retirar o ingresso na bilheteria. O app oferece conforto e comodidade, para que possamos assistir nossos filmes sem nenhuma preocupação."
+98,Juliana Barbosa,"July 24, 2019",4," acho que o aplicativo deveria ter outras opções para débito. Não é justo, só quem tem conta BB pode debitar o ingresso."
+99,Enderson Andrade,"July 21, 2019",2," app é ok para médio, tem bug referente à login.. é lento.. também tem alguns bugs referente à validação de pagamentos.. vale 2 estrelas apenas pela facilidade"
+100,TJ,"September 18, 2019",5," Excelente! Melhorou muito, está travando menos e agora aceita até débito <3"
+101,Marcos José Ferreira Júnior,"July 8, 2019",5, tem filtro? tem. tem como comprar pre venda? tem. tem como comprar pipoca e refri antes? tem. tem meia entrada? tem. tem como usar o app para mostrar o ingresso e nao precisar imprimir papel a toa? tem merece 5 estrelas? merece.
+102,Diego dos Santos Gonçalves,"August 31, 2019",5, O fluxo é bem legal. Gosto nuito da facilidade de pagto da Ingresso
+103,Luiz Berber,"July 7, 2019",4," No geral, é bom. Mas muitas vezes, instável. Muita demora para carregar as informações etc.."
+104,Caio Uno,"August 6, 2019",4, Melhorou um pouco desde a última versão. Está mais fluido e menos travado.
+105,Carolina Viana da Silva,"July 17, 2019",1, o app não funciona; fixa carregando eternamente a opção dos ingressos.
+106,Vieira Filho,"June 24, 2019",4, muito fácil de usar
+107,DOUG Santander,"June 27, 2019",5, Adorei que agora incluiram a opção de pagamento no débito!
+108,Thomaz Almeida,"July 5, 2019",5," Amigável, não dá erro, informações limpas"
+109,Matheus Daniel,"July 20, 2019",5, O melhor app para comprar ingressos antecipados de cinema.
+110,Michael Ferreira,"August 10, 2019",4," Pratico e facil de usar, alem de evitar muitas filas."
+111,Wilton Dias,"July 2, 2019",4, bom para o que se propõe.
+112,Ana Oliveira,"August 31, 2019",5," Excelente aplicativo! Sem travamentos, fácil de usar."
+113,Lennon Rocha,"July 5, 2019",5, o melhor !
+114,Guilherme Azevedo,"July 27, 2019",5, super facil e rapido comprar seu ingresso
+115,Werisleyk Logam,"July 18, 2019",5, mt simples e acessível recomendo dmss!
+116,Cid,"July 17, 2019",5," fácil de adquirir ingressos, muito bom"
+117,Bruno Gusson,"September 22, 2019",5, Simples e prático. Filas nunca mais!
+118,chokebjj,"December 19, 2019",5, Muito prático e intuitivo. Uso direto
+119,Patrick Araujo,"July 22, 2019",5, Filas no cinema nunca mais!
+120,Christian Alexsander,"July 6, 2019",5, Sempre usual. Nunca me deixou na mão.
+121,Ricardo,"June 27, 2019",5, muito bom
+122,Felipe Malaguti,"July 16, 2019",5, Muito bom.
+123,Elizeu Gerlach,"August 29, 2019",5," Ótimo app, intuitivo e prático."
+124,Nardo XD,"August 4, 2019",5, melhorou um pouco!
+125,Rogério A. Lourenço,"July 5, 2019",5," facil, simples e rapido"
+126,raelly xd,"July 28, 2019",5," simples, rápido e seguro"
+127,Erick Saimon,"August 10, 2019",5, Rápido e fácil!!
+128,juan jose abba,"September 8, 2019",5, muito rápido. parabéns
+129,Caio Gonzaga,"September 8, 2019",5, Muito prático!
+130,Fabaum Della Rovere,"July 28, 2019",5, bom !!!
+131,Maurício Pereira,"July 29, 2019",5, muito prático
+132,Bruno Passos,"July 21, 2019",5, Melhorou muito
+133,N A Y,"August 1, 2019",5, muito bom
+134,Rogério Luiz,"August 18, 2019",5, Super prático
+135,Nadson Oliveira,"September 5, 2019",5, Muito bom
+136,GLAUCO POSTATNI,"September 18, 2019",5, Muito bom
+137,Wellington Torrejais da Silva,"July 3, 2019",4, Bom
+138,anderson tomazi,"July 16, 2019",5, ótimo
+139,Emanuel Souza,"July 21, 2019",5, Excelente
+140,David Boni,"September 4, 2019",5, Ótimo
+141,Diego Silva,"June 30, 2019",5, Good App
+142,Marcio Dias Magalhaes,"July 23, 2019",5, awesome !
+143,Emerson C,"June 22, 2019",5, good app
+144,Henrique Gonzales Stella,"August 4, 2019",5, nice'n easy
+145,Caio Vinícius,"June 21, 2019",5, top
+146,Fabio Eloy,"July 10, 2019",5, top
+147,Omy omar,"August 12, 2019",5, lovely
+148,Gabriela Lima,"August 17, 2019",5, good
+149,Otávio Anaga,"April 27, 2019",2," durante a compra, se você precisar alternar entre aplicativos no celular, você perde tudo o que ja tinha feito, te obrigando a começar todo o processo novamente! precisam corrigir isso!"
+150,Luís Felipe Otoni Soares,"April 28, 2019",1," horrível! quando você troca de tela (pra pegar o número do cartão no app do cartão, por exemplo) o app cancela a sessão de compra e obriga você a escolher outros assentos. ridículo"
+151,Matheus Cunha,"April 29, 2019",2," A entrada dos dados do cartão de crédito é de matar. Não permite colar, não permite editar um número. Se errar, tem que deletar tudo até chegar ao número errado."
+152,Gabriel Pittigliani,"April 26, 2019",1," Péssimo, toda hora tranca, não consigo retornar da sessão sem sair do aplicativo e quando vou finalizar alguém já comprou o assento. Deviam fazer algo para assegurar o lugar por alguns minutos"
+153,Hugo Leonardo,"April 25, 2019",1," Essa taxa é um roubo, às vezes ela representa 100% do valor do ingresso."
+154,Lucas Novaes,"April 21, 2019",1," apesar da decisão do STF, continuam cobrando taxa de serviço. o processinho ja está pronto aqui."
+155,jean pezzi de oliveira,"June 4, 2019",5," Facilita todo o processo de compra de ingresso, evitando filas. Tambem avisa por notificação quando abre a compra de ingressos para lançamentos, dai quase sempre é possível conseguir lugares bons em cinemas concorridos como o IMAX ."
+156,Ítalo França,"May 3, 2019",1, Travando na hora de validar o ingresso no cinema. Vou ter que imprimir o ingresso. Não dá pra confiar.
+157,Fernanda Sousa,"June 5, 2019",5," Só de não ficar na fila pra comprar ja vale 5 estrelas, o app é super fluido e bonito, nunca tive problemas com ele"
+158,Pedro Pontual,"May 12, 2019",3," irritante ter que refazer toda a operação, preenchendo todos os dados, porque na hora de pagar um dos lugares foi comprado."
+159,Kadu Castro,"May 10, 2019",5," Muito bom e muito prático. Compro os meus ingressos de cinema só por aqui, agora."
+160,Fabio Henrique,"May 1, 2019",1, Não é possível alterar o email de cadastro. Cheio de bugs. Propagandas aparecem justamente do nada na frente de onde você vai clicar pra comprar. Se for pedir reset de senha vai ter que digitar o email novamente.
+161,Dirley Pinto,"June 9, 2019",1, A integração com o App Norte Shopping não funciona adequadamente. Comprei pelo app Norte Shopping e fui direcionado a outro Shopping. Acabei comprando o ingresso no local errado.
+162,Lucas Marques,"May 3, 2019",1, Eu clico na sessao para ver os locais disponíveis e depois no botão voltar (nativo ou da toolbar) e fica aparecendo um monte de mensagem ou trava...
+163,Christiana Jobim,"April 27, 2019",5," otimo app mas precisa ser mais fácil a busca singular de filmes, cinemas e shows"
+164,Maurício Cavalcante,"April 29, 2019",5," excelente app, economiza tempo na fila e garante seu ingresso no cinema antecipadamente ."
+165,Gustavo Andriewiski,"April 28, 2019",1, muito ruim o processo de login e cadastro
+166,Larissa Soares,"May 1, 2019",5," Muito prático, uso sempre que decido ir ao cinema"
+167,Everton Bruno,"April 29, 2019",5, O App é ótimo! fácil de usar e bem eficiente.
+168,Bruno Miranda,"June 16, 2019",5, Muito bom a experiência de apresentar o ingresso pelo aplicativo
+169,Marcelo Aymone,"April 28, 2019",3, não dá para comprar a pipoca separadamente do ingresso do filme.
+170,bruno cezar,"April 22, 2019",4," bom, não tenho do que reclamar"
+171,Pablo Cesar Soares,"May 19, 2019",4," interface buga um bocado, mas é bem pratico"
+172,Murillo Kerr,"May 18, 2019",5, Excelente! Facilita muito e melhorou bastante a interface.
+173,Wilhiam Santos Filho,"May 4, 2019",4, Caso tivesse opção de débito seria melhor.
+174,Gustavo Brandão,"April 24, 2019",5, Sensacional essa sacada do ingresso digital!!
+175,Marcio Pd,"May 4, 2019",4, Esta bem mais prático. Evouliu bastante
+176,Matheus Siquara,"April 25, 2019",2, lento demais no Android Pie
+177,Samuel Araujo,"May 16, 2019",5, decente para comprar os ingressos
+178,maykol bds,"April 30, 2019",5, excelente aplicativo para comprar ingressos
+179,Fabio Pericles,"April 27, 2019",5," fácil, rápido e auto explicativo"
+180,Remington Ricardo,"May 19, 2019",5, o app ficou muito bom.
+181,Adisson Marinho,"May 23, 2019",5, Boas opções de ingressos
+182,Gabriel Sousa,"May 18, 2019",5, excelente e pratico!
+183,Damien Foote,"April 29, 2019",5, bem fácil e convinha
+184,Paulla Carvalho,"May 30, 2019",5, muito bom!
+185,helensouzabr,"May 28, 2019",5, muito bom!
+186,Guilherme Zanetti,"May 2, 2019",5, Bom demais!
+187,Cristina Vieira,"April 25, 2019",5, rapido e pratico
+188,daniel mendonça de oliveira,"April 24, 2019",5, Sempre funciona bem
+189,Raul Barreto Junior,"April 24, 2019",5, ótimo aplicativo.
+190,C Yam,"June 10, 2019",5, Funciona bem.
+191,Lucas Campos,"June 1, 2019",4, excelente!
+192,willian peixoto,"April 27, 2019",5, Muito bom
+193,Tainah Soares,"April 30, 2019",5, excelente app
+194,Matheus Pereira Timm,"June 5, 2019",5, muuuuuuuuuita praticidade
+195,Rodrigo Suman,"June 12, 2019",4, bom aplicativo
+196,Jonathan Oliveira,"June 22, 2019",5, muito bom
+197,Carlos Eduardo Morera,"October 8, 2019",5, Bom aplicativo
+198,Roney Lima do Nascimento,"April 25, 2019",5, ótimo.
+199,Cláudio Márcio Victoriano,"April 30, 2019",5, Nice app!
+200,Rodrigo Oliveira Barrelotti,"May 9, 2019",5, bom
+201,lazaocristiano,"April 29, 2019",5, show
+202,Marina Lima,"April 25, 2019",5, amo
+203,Costantino Zunino,"April 29, 2019",5, ii8
+204,Pedro Guilherme Siqueira Moreira,"May 4, 2019",5, Ok
+205,Tiago Oliveira,"June 5, 2019",5, testando
+206,João Alberto Ryff,"June 9, 2019",5, ok
+207,Beatriz Alves,"June 13, 2019",5, i9
+208,Camila Gomes,"April 28, 2019",5, great!
+209,Rodrigo Shimokawa Kimura,"May 14, 2019",5, very intuitive
+210,Ricardo dos Santos,"June 10, 2019",4, fine app
+211,Lorenna Oliveira,"May 15, 2019",5, amazing
+212,Priscila Pereira de Oliveira,"May 5, 2019",5, excelent
+213,Luis Augusto Mattiazzo Cardia,"April 7, 2019",1," burocracia absurda, cheio de entraves com as senhas, tempo de expiração, não aceita cartão virtual, limitação de um ingresso por cartão na promoção, taxa na compra que inviabiliza o desconto de promoções. tudo mesquinharia, e para quem vai vender pipoca a preço de picanha, é imoral. deveriam ter ver...Full Reviewburocracia absurda, cheio de entraves com as senhas, tempo de expiração, não aceita cartão virtual, limitação de um ingresso por cartão na promoção, taxa na compra que inviabiliza o desconto de promoções. tudo mesquinharia, e para quem vai vender pipoca a preço de picanha, é imoral. deveriam ter vergonha e medo da ganância voltar em forma doença grave."
+214,Pablo D. Silva,"March 21, 2019",3," Bem prático e fácil de usar. Mas cobrar taxa para cada ingresso é um absurdo. O serviço é único e só deveria ser cobrarada uma taxa por compra, não várias. Só uso mesmo app em eventualidades devido a cobrança abusiva."
+215,André Segolin,"April 7, 2019",1," Com toda certeza o pior APP de ingressos que ja utilizei, a mensagem ""Infelizmente sua compra não foi realizada"" é frequente. Já desisti varias vezes da compra devido a esse erro. Sugestão: aumentem o valor da taxa, para que possam desenvolver algo melhor. 07/04 - 3 tentativas de compra e novamente,...Full ReviewCom toda certeza o pior APP de ingressos que ja utilizei, a mensagem ""Infelizmente sua compra não foi realizada"" é frequente. Já desisti varias vezes da compra devido a esse erro. Sugestão: aumentem o valor da taxa, para que possam desenvolver algo melhor. 07/04 - 3 tentativas de compra e novamente, ""Ops, Infelizmente seu pedido não pode ser concluído..."""
+216,Jera1991,"April 3, 2019",5," Melhor maneira de comprar ingressos. Não perdemos tempo em fila, só entrar direto. D+"
+217,Emerson Henriques,"April 4, 2019",5," Melhorou muito e está mais confiável. Minha dica: não grave o cartão de crédito no app, pois o Google Pay já tem os dados do cartão (se você permitir). Basta colocar o código CVV"
+218,Kt Antifa,"April 12, 2019",2," Servidor péssimo. Não aguenta grandes lançamentos, cai toda hora. Serviço único de compra de ingressos de cinema que monopoliza e dificulta o acesso ao entretenimento. Horrível."
+219,Christopher Denizard,"April 26, 2019",1," Horrível, quase perdi a sessão tentando comprar. Pegar uma fila com 300 pessoas é mais rápido."
+220,Fariiaz,"April 2, 2019",1," Não concluí a compra. Abre uma page quando escolhe a sessão, depois fica carregando e diz: sessão expirou. tentei em varias e mesma coisa. No site também."
+221,David Cecchini,"March 24, 2019",1," Cobram R$5,60 de taxa para comprar ingresso de cinema. App deletado"
+222,Antônio Brandão Lima,"April 14, 2019",2, O filtro é péssimo. Não dá opção de escolher o cinema ou horário desejado.
+223,Kewin Araujo,"April 2, 2019",5," Prático, rápido e seguro. Perfeito e não precisa pegar fila antes do filme"
+224,Ed Junior,"April 2, 2019",1, nao consigo comprar ingresso para a pré-estreia do Vingadores. Dá erro. Péssima experiência.
+225,Guilherme Melo,"April 2, 2019",1, ficou fora do ar e nao aparecia que a sala estava lotada
+226,taigrom bueno,"April 3, 2019",5, Excelente aplicativo para eventos diversos. Utilizo sempre que vou ao cinema.
+227,Nícolas Lopes,"April 1, 2019",5, Fácil de usar e quando tive problemas resolveram rapidamente.
+228,Lucas Emanuel Ramos Fernandes Koontz,"April 9, 2019",4, Não salva o carrinho de compras corretamente.
+229,Jefferson Carvalho,"April 2, 2019",5, Melhor aplicativo para compra de ingressos de cinema! recomendo!!
+230,Tonismar Bernardo,"April 2, 2019",4, Funciona bem. Facilita muita a compra dos ingressos.
+231,Alessandro Bezerra,"April 7, 2019",5," ótimo, prático e muito útil"
+232,Bruno Garcia,"April 10, 2019",5, Muito prático e rápido
+233,Jefté Natã,"April 12, 2019",5, Bom app e confiável.
+234,Andrew,"April 22, 2019",5, muito bom!
+235,Ricardo Wolff,"April 7, 2019",5, Muito bom!
+236,Priscila de Brito,"April 4, 2019",5, Muito prático!
+237,Guilherme Garcia,"April 2, 2019",4, muito pratico!
+238,Rodrigo Maruyama,"March 30, 2019",4, Funciona na maior parte do tempo.
+239,Alan M. Jones,"April 18, 2019",5, Excelente!
+240,Ali Ayache,"April 2, 2019",3, trava muito
+241,RAFAEL ALEXANDRE MUNIZ VIEIRA,"April 18, 2019",5, Excelente App
+242,Henrique Cerquinho,"April 2, 2019",1, literalmente horrivel
+243,Tiago da Silva Valeriano de Oliveira,"March 21, 2019",5, é otimo
+244,A Google user,"March 17, 2019",5, Great app!
+245,Jose Guilherme Santos Campos,"April 15, 2019",5, excelente
+246,Anitta Rodrigues,"April 21, 2019",5, bomm
+247,Lorena Lims,"April 3, 2019",3, ok
+248,Talks4life !,"April 13, 2019",5, ótimo
+249,Lucas Campos,"March 27, 2019",5, great!
+250,Laura Santos,"April 3, 2019",5, É top
+251,Thiago,"April 8, 2019",4, Top demais
+252,Allan Kardec,"April 8, 2019",5, great
+253,Silas Diego dos Santos Gaia,"April 9, 2019",5, Top
+254,Júnior Kbça,"April 25, 2019",5, useful
+255,Rodrigo Espindola,"March 9, 2019",2," A interface das formas de pagamento não dá nenhum feedback enquanto está processando a transação com a operadora de cartão de crédito. Você não sabe se está processando a transação ou se simplesmente travou. Em uma das tentativas respondeu que o valor do pagamento era diferente do valor da compra, a...Full ReviewA interface das formas de pagamento não dá nenhum feedback enquanto está processando a transação com a operadora de cartão de crédito. Você não sabe se está processando a transação ou se simplesmente travou. Em uma das tentativas respondeu que o valor do pagamento era diferente do valor da compra, algo que não fez sentido uma vez que é a própria app quem calcula o valor total. Além disso, exige o número de documento de meia entrada de estudante mesmo que o ingresso seja para crianças pequenas."
+256,Norman Pegden,"February 6, 2019",5, A lista de cinemas não funciona muito bem mas o app é bem bom. Evoluiu bastante nos últimos tempos.
+257,A Google user,"March 4, 2019",5," Super facil de usar e ainda facilita td. Não preciso pegar fila nem para comprar e nem para retirar os ingressos, pois eles ja estao no telefone. Basta apresenta-los na entrada do cinema"
+258,Daniel Gonzalez,"March 16, 2019",1," Se eu tentasse fazer um app tão ruim eu não conseguiria. Lento, não responsível, nada prático e ainda cobra uma taxa, bem cara por sinal, por cada ingresso. Recomendo usar o app do Cinemark que não paga a taxa e é mais intuitivo."
+259,Antonio Rafael Santos,"March 17, 2019",4, muito bom mas acho que ele está um pouco fora de sincronia pois de vez em quando ele fala que está ocupado somente na hora de fechar a compra.
+260,Vinícius De Luca,"February 16, 2019",1, Sempre com algum problema e cheio de erro. Desde quando era aquele outro app fuleiro é essa piada. Sinto nojo desse app e dessa empresa. Lixo. Tudo quebrado e ferrado.
+261,Jonathan Teixeira,"March 5, 2019",4," Aplicativo bonito e fluido. No entanto, deveriam disponibilizar um QR code para ser lido no momento da entrada do evento (cinema mais precisamente), para evitar que o cliente mesmo apos comprar pelo APP/Site tenha que se dirigir ao autoatendimento ou bilheteria para trocar por ingressos físicos. Ale...Full ReviewAplicativo bonito e fluido. No entanto, deveriam disponibilizar um QR code para ser lido no momento da entrada do evento (cinema mais precisamente), para evitar que o cliente mesmo apos comprar pelo APP/Site tenha que se dirigir ao autoatendimento ou bilheteria para trocar por ingressos físicos. Alem de ser um gasto de papel desnecessário, faz com que a experiência seja ruim."
+262,george ricardo,"March 7, 2019",5, Aplicativo após sua atualização se tornou melhor e eficiente parabéns!
+263,Vitor Alves,"March 6, 2019",5, Eu achei o aplicativo maravilhoso pra compra de ingressos ❤️
+264,Rodrigo Baer,"February 16, 2019",1, uma licao de como cagar a UX
+265,A Google user,"February 20, 2019",5, melhor jeito de comprar ingresso de pré-venda!!
+266,J Rietmann,"February 26, 2019",2, lista de cinemas nao funciona
+267,Marcio Santos,"March 2, 2019",4," quando funciona, é muito bom"
+268,Rafael Ribeiro,"March 19, 2019",5, Muito bom e prático
+269,Kaic Uzeloto,"March 7, 2019",1, quero resgatar meu ingresso
+270,Rubens Freitas,"March 12, 2019",5, funcional e rápido
+271,Lorrany Ribeiro,"February 7, 2019",5, Excelente!
+272,Cassiano Gomes,"March 9, 2019",5, mto pratico
+273,Gabriel Delmiro,"March 24, 2019",5, muito prático
+274,Flavio Berrios,"March 9, 2019",5, app bacana
+275,adriano tao,"March 6, 2019",5, muito bom
+276,Betina Goetjen,"March 9, 2019",5, muito prático
+277,Fernando Henrique,"March 12, 2019",4, Muito bom
+278,Renan Coradini,"February 24, 2019",5, otimo
+279,Paulo Ramiro,"March 14, 2019",5, maravilha
+280,Thiago Silva,"February 28, 2019",5, pratico
+281,Dennis Pereira,"February 17, 2019",5, Ok
+282,Vitor Rodrigues,"March 7, 2019",5, exelente
+283,Leandro Nogueira,"March 19, 2019",5, good
+284,Lucas Martins,"March 15, 2019",5, nice
+285,Carlos Juninho,"April 2, 2019",5, Awesome
+286,Dheimison Luz,"June 17, 2019",5, nice
+287,MrAngustoronto,"December 18, 2018",1," Um aplicativo que deveria facilitar a nossa vida, faz é causar mais transtorno... Sempre com problema na finalização da compra."
+288,Alex F. Borba,"December 15, 2018",3," Processo de checkout demorado, difícil retornar a passos anteriores e o ingresso virtual (slide to activate) é péssimo."
+289,Daniel Santos,"January 16, 2019",2," Acho que esse serviço poderia parar de encher minha caixa de entrada com emails irritantes... só pra constar no meu cadastro não está informado que quero receber mensagens do serviço, então deixem ser fdp(s) e respeitem a check box que não está marcada. Até porquê eu acompanho o mercado de cinema, p...Full ReviewAcho que esse serviço poderia parar de encher minha caixa de entrada com emails irritantes... só pra constar no meu cadastro não está informado que quero receber mensagens do serviço, então deixem ser fdp(s) e respeitem a check box que não está marcada. Até porquê eu acompanho o mercado de cinema, portanto eu sei de cada lançamento, não preciso de vcs me importunando com e-mails...."
+290,Davi Porciuncula,"January 14, 2019",4, o app melhorou muito dps de ser adquirido pela fandango mas poderia ter uma integração melhor e importar os ingressos pro google pay.
+291,Alexya Lemos Rocha,"December 10, 2018",5," Super prático, rapido, nunca deu problema! Além de poder usar no cinema sem internet. Nota 10!"
+292,Miguel Amaral,"January 9, 2019",2," não consigo usar a aba de Cinemas, sempre mostra uma mensagem de erro. e o email de suporte nao funciona."
+293,Pedro Moreira,"December 30, 2018",5," Melhorou bastante desde a versão anterior, em termos de estabilidade e facilidade de uso."
+294,Elton Simão,"January 16, 2019",4, Poderia ter algumas melhorias no desempenho mas é seguro e funcional
+295,Vitor Da Silva Kunz,"December 14, 2018",1, Meu aplicativo agora é só um hyperlink para o site
+296,Junior Batista,"December 15, 2018",1, Vários passos pra concluir a compra e não reserva a vaga
+297,Fabio MR,"January 12, 2019",3," Funciona. Mas lento, difícil trocar opções etc. Exige paciência"
+298,Sharley Sampaio,"January 22, 2019",5, ótimo simples e facil
+299,Renato Pinheiro,"January 13, 2019",5," Muito bom, recomendo!"
+300,José Flaviano Rodrigues,"January 3, 2019",5, - Excelente!
+301,Ton Gressi,"January 6, 2019",5, muito bom
+302,Akeline Santos,"January 8, 2019",5, muito prático
+303,Rodrigo Campos,"December 26, 2018",5, Cool app!
+304,Nobel Nonaka,"January 20, 2019",4, ol
+305,Sidney Carvalho,"January 5, 2019",5, tranquilo
+306,Natanael Ribeiro,"January 26, 2019",5, excelente
+307,Rafael Vasco,"December 23, 2018",5, Essencial
+308,Marcelo T P Costa,"November 19, 2018",4," Fácil de escolher, comprar e pagar. A validação do ticket poderia ser mais simples. Edit > Quando falo da validação do ticket falo exatamente da função citada na resposta. O design é bom, mas não é funcional e não há instrução de como proceder, descobri depois de algumas vezes que tem que correr o d...Full ReviewFácil de escolher, comprar e pagar. A validação do ticket poderia ser mais simples. Edit > Quando falo da validação do ticket falo exatamente da função citada na resposta. O design é bom, mas não é funcional e não há instrução de como proceder, descobri depois de algumas vezes que tem que correr o dedo no picote pra ""destacar"" o canhoto, simulando um ticket físico, legal mas pouco prático."
+309,Gabriel Schneider Almeida,"November 25, 2018",4, Torna a compra de ingressos uma experiência muito mais prática!
+310,A Google user,"December 4, 2018",1, Tem propagandas mesmo recebendo parte da compra do ingresso
+311,Samantha Moreira,"November 23, 2018",5, Muito prático. Só compro por ele!
+312,Sean Lacerda,"November 12, 2018",4," Simples! Top! Ficará perfeito quando acabarem as ""taxas de conveniência""."
+313,Marcelo Luano Syperreck,"November 5, 2018",5," Melhorou referente a versão anterior, mas acho que pode melhorar ainda mais!"
+314,silvio tobias,"October 25, 2018",4, O app poderia avisar qdo o codigo foi copiado ou não
+315,Zvec Zvec,"November 15, 2018",5, Fácil para fazer compras antecipadamente e escolher bem o lugar
+316,Douglas Hubert,"October 12, 2018",1," Meu Deus. Que aplicativo lento. Estou escrevendo isso para demonstrar meu desespero ao utilizar algo tão pouco otimizado, demora pra receber pagamento, não sincroniza os lugares que já foram comprado e te faz comprar lugar que já foi vendido. Cada 'refresh' da pagina que for demora uma vida. Desgost...Full ReviewMeu Deus. Que aplicativo lento. Estou escrevendo isso para demonstrar meu desespero ao utilizar algo tão pouco otimizado, demora pra receber pagamento, não sincroniza os lugares que já foram comprado e te faz comprar lugar que já foi vendido. Cada 'refresh' da pagina que for demora uma vida. Desgosto. Infelizmente para os cinemas da minha região (Sorocaba), não conheço outro aplicativo. Seria muito bom se fosse atualizado, otimizar o aplicativo em geral, a usabilidade da desespero."
+317,Ioannis Z,"November 10, 2018",2, Fica mandando notificações e não tem a opção de tirar
+318,Roberto De Lucia,"October 27, 2018",2," Sempre tenho problema com o pagamento. paypal, Gpay... Nunca funciona"
+319,bruno s m de oliveira,"October 26, 2018",5, excelente app . fiquei feliz pela integração com a google pagamentos .
+320,Pedro Miguel Cordeiro,"November 3, 2018",2, Terrível experiência de pagamento
+321,Virgilio Moreira,"November 2, 2018",5, Tudo de bom
+322,Leandro Richter,"November 2, 2018",5, Raramente dá problema
+323,o rei innatesumo,"September 17, 2018",1, Pensei que eu era o único que tinha problemas para usar esse App. Ele volta o tempo é Não finaliza o pagamento. Fui comprar o ingresso e o site reniciou a compra e comprou para um dia que eu não queria e agora não querem estornar o valor e nem resolver o meu problema. App muito ruim
+324,David Leite,"October 5, 2018",2," É mais lento que internet discada. Fica colocando propaganda, sendo que já cobra uma taxa abusiva por ingresso, dependendo do valor do ingresso a taxa chega a 30% do valor. O histórico de compra não mostra os assentos."
+325,Fernando Andrade Jr,"September 6, 2018",2, Very slow.. do not reserve the seat while you are paying... dumb customer exp in some steps
+326,Andrew Guedes,"September 15, 2018",1," App apresenta diversos problemas para realizar login e pagamento da compra!! Precisa muito melhorar, deixa muito a desejar na usabilidade!!!"
+327,Jorge Gomes,"October 5, 2018",5, Ótimo para saber oque está passando e garantir seu ingresso e assento antes de sair de casa
+328,Santos Nascimento,"September 29, 2018",4, Precisa de melhorias... Muito lento e processo de pagamento complicado
+329,pedro torres,"April 22, 2019",5, ok
+330,Elvis da Silva Silveira,"October 12, 2018",5, Perfect
+331,Alef Jesus de Souza,"August 19, 2018",1," Fui comprar um ingresso, comprei, meu cartão de crédito me mandou 
+notificação de pgto efetuado e nada do meu ingresso aparecer no app nem em 
+email, tive de comprar outro ingresso, paquei 2x... Estou esperando meu 
+estorno."
+332,Elton Nogueira,"July 21, 2018",1," Péssimo aplicativo, realmente decepcionante. Lento e nada prático. Demora 
+uma eternidade para confirmar o pagamento e muitas vezes você precisa 
+reiniciar o processo todo. Desisti de usá-lo."
+333,Marcos Jahn,"July 28, 2018",1," A usabilidade do app é tão ruim que você acaba comprando ingresso no dia 
+errado... Cuidado!"
+334,Fê von Christian,"July 29, 2018",3, Diversas funções não funcionam com Android P. Edit: agora tudo voltou a funcionar normal! q estranho!
+335,Fadi Augusto Khouri Hanna,"July 21, 2018",5, Muito bom! Podia aceitar Samsung e Google Pay.
+336,Felipe Oliveira,"July 18, 2018",5, App cumpre com excelência o que promete.
+337,"Maurice, Jr Saad","July 14, 2018",5, app melhorado. cumpre o papel. aprovado
+338,A Google user,"July 25, 2018",5, Great!
+339,Wellmmer Lucas,"July 23, 2018",5, Awesome
+340,Eduardo Yamamoto,"May 29, 2018",2," Se vc erra muitas vezes a senha, eles exigem um captcha. Até aí tudo bem, mas quando vc entra no aplicativo, vc não consegue fazer o login porque não te dão a opção de marcar a caixa do captcha e vc fica sem conseguir puxar os ingressos pelo aplicativo."
+341,stefano nunes,"June 9, 2018",5," App muito pratico e completo, consigo ter até os descontos de cada cinema."
+342,AleaS K,"March 7, 2019",1, app horroroso. sempre acontece um erro inesperado na hors de finalizar a compra
+343,luan ibarra,"May 29, 2018",5," Melhoraram bastante o app, parabéns aos devs !"
+344,Filipe Guedes,"May 26, 2018",5, Fácil de usar e cumpre oque promete
+345,Otavio Hurtado Paoleschi,"June 23, 2018",5, Muito bom o app facilita muito
+346,Paulo Pereira,"June 30, 2018",5, Um belo aplicativo. Fácil de manusear.
+347,Alexandre Tomé Ferreira,"June 23, 2018",5, Simples e eficiente.
+348,Marcio Fabio,"May 31, 2018",5, Funciona muito bem.
+349,Jean A R,"June 2, 2018",5, O melhor!
+350,Eric,"June 20, 2018",5, Simples e útil.
+351,Ronnie Mourão,"March 10, 2019",5, economiza tempo na hora da compra
+352,Henrique Costa,"January 30, 2019",1, trava demais
+353,Milton Rodrigues Bahia,"June 15, 2018",5, Excelente
+354,Marco Túlio,"June 17, 2018",5, Good app
+355,Andrew Fcoo,"July 2, 2018",5, Great app
+356,Alysson Cavalcante,"July 11, 2018",5, Very good
+357,Cleber Pereira Gomes,"June 23, 2018",5, Top
+358,Max Gontijo de Oliveira,"March 22, 2018",5, Bom aplicativo para comprar ingressos para cinema. Acho a taxa muito alta. Às vezes deixo de comprar porque a taxa chega a ser 30% do valor de cada ingresso.
+359,Yuri Padilha,"April 29, 2018",2," Incredibly difficult to purchase something with this app. After several 
+attempts I could make the purchase, but it was very hard and slow."
+360,Leoni Murilo,"April 27, 2018",1," Esqueceram de fazer o website funcionar no mobile... Vou criar conta ou 
+recuperar minha senha, preencho um formulário enorme pra no final o 
+formulário não dar submit... Pqp"
+361,Feliciano Santana,"April 26, 2018",1," Aplicativo lixo, pesado, não deixa se cadastrar pelo app, e por cima de 
+tudo ainda tem propaganda! Não instalem!!!!!!!!!!!!"
+362,Guilherme Vasconcelos,"May 19, 2018",1," Sempre tenho problemas quando tento comprar pelo App. E nunca há uma 
+mensagem de erro instrutiva."
+363,Augusto Santos,"April 25, 2018",1," Taxa absurda. Pagar uma por transação até vai, agr pagar pra cada ingresso 
+na mesma compra é ridículo."
+364,Roberto Rangel,"March 30, 2018",1," Péssimo, não completa as transações, falha na conexão toda hora, não reserva os lugares na sessão enquanto está comprando."
+365,Carlos Alberto Panozzo Cunha,"April 29, 2018",1," Não loga de forma alguma, mesmo usando e-mail/senha que funciona pelo site, 
+até redefinir a senha fiz, e mesma coisa. Vou continuar a usar o site pq 
+esse APP é um coisa horrível."
+366,hugo vasques,"May 10, 2018",1," Nao permite trocar email cadastrado e nao permite acesso pela senha depois 
+de nao utilizar por um tempo mandando instrucoes para o email antigo"
+367,Guilherme dos Reis,"April 28, 2018",1," Horrível em todas as plataformas. Simplesmente ridículo. Toda vez, TODA 
+VEZ, que eu vou pagar em qualquer filme ""outra pessoa já selecionou os 
+assentos"". Vou escolher os assentos e os ditos cujos estão livres. Muito 
+lento, uma verdadeira m*rda. 1/100."
+368,Guilherme Ulysses,"April 28, 2018",4," app tem muito a melhorar, mas pelo menos o atendimento ao cliente foi 
+rápido e bem feito pra solucionar problema ocasionado por eles mesmos."
+369,Rafael Lana,"May 18, 2018",1," Não consigo chegar na parte do pagamento, ao digitar os CPFs mostra uma 
+mensagem de erro dizendo Código inválido!"
+370,Werleis Silva,"May 21, 2018",5," Aplicativo ótimo, ajuda muito nas compras, eu só acho q deveria ter uma 
+opção para vermos os treiles dos filmes"
+371,Raphael Guilherme,"April 26, 2018",5," Tirando a alta taxa que há para comprar os ingressos, o aplicativo é muito 
+útil e facilita muito as compras"
+372,Alexandre Gornatti,"April 28, 2018",3," Várias vezes não tem ""comunicação com a bilheteria"". No meu telefone nunca 
+dá pra retirar o ingresso pelo app..."
+373,Lucas Ribeiro,"May 18, 2018",3," Não consigo adicionar um cartão credito no app, nem associar minha conta do 
+paypal pelo navegador"
+374,andre franca,"April 30, 2018",1, Não consigo acessar o aplicativo com a senha criada. quando tento acessar por computador funciona porem por aplicativo diz que a senha está errada.
+375,Gabriel Carvalho,"April 26, 2018",2," Muito boa a interface, o servidor que não ajuda, às vezes, mesmo no wifi 
+fica lento, não tem como configurar as notificações"
+376,Douglas Teles,"March 31, 2018",5," Funciona bem, não sou fã da taxa de conveniência, mas comprar por aqui é conveniente, então compensa."
+377,Rodolfo Davoglio,"May 7, 2018",4," As vezes trava na tela de pagamento e não deixa voltar para a tela da 
+esxolhabda forma de pagamento."
+378,Marcelo Chaves Gonçalves,"April 2, 2018",4, O app ficou legal mas pq eu continuo tendo problemas nas compras de meia-itaucard...
+379,Luis vissotto,"May 10, 2018",2, A proposta é boa mas sempre que quer usar algum voucher da problema.
+380,Carlos Barcellos,"April 16, 2018",1, Fraudaram minha conta e não consigo nenhum atendimento. Compraram ingresso com minha conta vinculada do paypal
+381,Rodrigo Tanaka,"May 19, 2018",5, Melhor app de entretenimento! Salva vidas quando estamos em cidades grandes.
+382,Matheus Rocha,"May 6, 2018",5, Se quer comodidade essa é a melhor opção
+383,Silas Moreira,"May 1, 2018",5, Muito bom pra comprar ingressos! Uso sempre.
+384,Alexandre Gorski,"April 14, 2018",4," Cara a taxa, mas o aplicativo funciona bem"
+385,Tsuchinoko Kuro,"May 17, 2018",1," Taxa deplorável, pior que a igreja universal."
+386,Wanderley Drumond,"April 21, 2018",5, Excelente app. Agora só compro por ele.
+387,Moisés Santos,"March 28, 2018",5, Ótimo aplicativo para compras diversas.
+388,Leandro Freitas,"April 26, 2018",1," Horrível, não funciona o checkout."
+389,Arthur Cavalcante,"April 22, 2018",1, Não completa as transações
+390,Victor P. Adamo,"April 28, 2018",5," Spectacular, it makes my life easier!"
+391,Lucas Landim,"April 30, 2018",5, Muito prático
+392,A Google user,"April 27, 2018",5," Simple, practical, clean, useful and works!"
+393,Henrique Ellery Maggioni,"April 2, 2018",5," Quick, simple, easy"
+394,Homero de Castro Oliveira,"May 3, 2018",5, Very nice.
+395,Caio Freitas,"May 19, 2018",5, Good
+396,Daniel Resende,"February 18, 2018",5," Fácil de comprar, mas tem muitos ""clique aqui para concordar com uma política que vc não leu"""
+397,Arthur Azevedo,"February 11, 2018",5, Fácil de usar e muito confiável!
+398,A Google user,"March 4, 2018",5, Excelente aplicativo. Fácil de usar.
+399,Fabrizio Arias,"March 17, 2018",5, Best!
+400,Alex de Melo Silva,"March 3, 2018",3," O aplicativo está bonito, funciona bem. Mas perde pontos por conter propaganda. Algo inadmissível já que também cobra taxa de serviço."
+401,Leandro Romano,"January 5, 2018",3," O app é muito bom e tem um design muito bem feito. Só faltou uma opção para desligar as notificações de sugestões de filmes. Por favor, implementem essa opção no app. Obrigado."
+402,Bruno Alves,"January 9, 2018",2," Tenho que ficar colocando usuário e senha todas as vezes, primeiro app que uso que funciona assim."
+403,Roberto Colares,"December 22, 2017",1, Enche o saco mandando propaganda
+404,Daniel Noronha,"December 23, 2017",1, Nada funciona... Nenhum meio de pagamento funciona.
+405,A Google user,"October 27, 2017",1, Propaganda em app onde vc paga taxa de conveniência que por sinal não é barata... simplesmente lamentável. Não usei por 10 segundos. Devia ter prestado atençao nas avaliações.
+406,Rafael D'Almeida,"October 29, 2017",1," Travado, com excesso de pop ups e burocracia. Falta filtros para retirar as sessões com características que você não deseja e comumente perde o seu estado e volta a região para São Paulo"
+407,Thales Mello,"December 12, 2017",1," O aplicativo é bonito, conveniente e funciona bem. Mas propaganda em um aplicativo que você já paga uma taxa de serviço altíssima é um absurdo. Não uso outro porque não existe outra opção."
+408,Paulo Parolin,"January 31, 2018",1," Passar propaganda em um app onde você vai pagar taxa de conveniência é ridículo!!! Além disso o app antigo era melhor... Eles involuiram. Estão precisando de concorrência!  Além disso eles enviam uma resposta padrão para entrar em contato com o SAC, blá blá blá para tê ajudar... Vão ajudar em que? V...Full ReviewPassar propaganda em um app onde você vai pagar taxa de conveniência é ridículo!!! Além disso o app antigo era melhor... Eles involuiram. Estão precisando de concorrência!  Além disso eles enviam uma resposta padrão para entrar em contato com o SAC, blá blá blá para tê ajudar... Vão ajudar em que? Vão tirar os ADDs do APP? Vão voltar a versão antiga? Ridículo mais uma vêz..."
+409,Luis da Mota,"December 16, 2017",2, Apesar de ser uma melhora comparado ao app anterior ainda apresenta uma péssima experiência para o usuário. Os filtros de busca são ruins e qualquer cadastro é um pesadelo. Seria possível deixar esses pontos de lado se não fosse cobrada uma taxa abusiva sobre o valor do ingresso.
+410,Wagner Augusto da Silva,"November 26, 2017",3," Prático, porém a taxa de conveniencia é simplesmente um absurdo, um ingresso  que você apresenta na tela do celular deveria no minimo ter custo igual ou até mesmo ser mais barato do que um ingresso que precisa ser impresso por uma máquina ou funcionário..."
+411,Victor Souza,"October 27, 2017",3," App funcional e simples de usar.  Mas uma sugestão: coloquem uma maneira de filtrar filmes por opção de sessão (ex, ver apenas as sessões legendadas, ou apenas as dubladas, ou apenas as 3D, e combinar essas opções. Por ex: se eu quiser ver apenas as sessões legendadas sem 3D, eu tenho essa opção)."
+412,Sandro Cafaggi,"December 12, 2017",1, impossivel comprar o ingresso. sempre no pagamento apresenta erro em comunicar com local do evento. nao importa o cartao ou o dia.3 dias seguidos com cartoes diferentes tentando comprar ingresso e apresenta o mesmo erro. torna-se inutil o aplicativo.
+413,Robinson Oliveira,"November 4, 2017",2," Lento, necessário percorrer toda listagem de salas para encontrar a desejada. Piorou em relação ao anterior"
+414,MartinesWil,"November 25, 2017",1," Horrível não consigo fazer o login pelo app para apresentar na hora da entrada , pela web loga somente com o CAPTCHA, já alterei a senha pela web e NADA . MUITO ruim sou programador, um erro desse eh inadmissível em produção."
+415,Sami Cr Cs,"November 15, 2017",2," App bom para visualizar filmes, localidades e horários, mas péssimo e lento para compras. Apesar das várias tentativas na compra de um ingresso, toda hora o app acusava algum erro inesperado. Pena! Tinha tudo pra ser bom!"
+416,Moreno Pinheiro,"December 3, 2017",3," Sugiro a mudança da fonte da letra usada para identificar a linha das poltronas. O ""I"" de ""ilha"" maiúsculo parece o ""l"" de ""lápis"" minúsculo. Na pressa e no escuro ajudaria se fonte das letras deixasse a diferença evidente."
+417,Eric Vasconcelos Joswig,"December 18, 2017",3," Ruim pq na hora de selecionar Meia, Você só poder escolher 1 vez a opção. Se um monte de aluno for comprar meia entrada apenas com o número da carteirinha, se ferraram, pq o App só libera 1 entrada meia por compra. Demorei uns minutos pra fechar a compra pelo inconveniente."
+418,João Victor Madeira,"November 4, 2017",5," Ótimo aplicativo, bem melhor que o anterior para encontrar o cinema e sessão desejada"
+419,Brazilian Joe,"December 19, 2017",3," Formas de pagamento meio bugadas, tem que tentar muitas vezes pra funcionar"
+420,Pedro Thiago,"December 14, 2017",5," Excelente aplicativo nunca tive problemas e muito funcional, continuem assim. Excelente mesmo"
+421,Vandré Philippsen,"November 2, 2017",5," Funciona melhor q o site, mas um pouco demorado para processar as ações."
+422,Fernando Morais,"November 19, 2017",5," Gosto muito do app, facilita muito minha vida na compra de ingressos."
+423,Andrei Schmidt,"December 18, 2017",1, App mal feito mal pensado mal programado. 5 Mil clicks practice voltar qdo vc entra em uma sala de cinema e não gosta dos lugares. Olha a resposta que eles dão. Absolutamente nada a ver como minha reclamação. Eu não reclamei da falta de assentos... É óbvio q vcs não tem culpa nem responsabilidade pe...Full ReviewApp mal feito mal pensado mal programado. 5 Mil clicks practice voltar qdo vc entra em uma sala de cinema e não gosta dos lugares. Olha a resposta que eles dão. Absolutamente nada a ver como minha reclamação. Eu não reclamei da falta de assentos... É óbvio q vcs não tem culpa nem responsabilidade pelos assentos não serem infinitos. Mas vcs tem culpa de ter q dar uma dezena de clicks pra retornar pra tela de seleção de horário. Algo q deveria ser feito no máximo com 2 clicks.
+424,A Google user,"December 15, 2017",2," Instalei na intenção de acompanhar os filmes em cartaz e principalmente os próximos lançamentos, apenas para descobrir que não existe tal ferramenta. Marcar os filmes que entrarão em cartaz, como por exemplo, quando ainda um produto encontra-se esgotado o ""avise-me quando chegar"" acredito que cinéfi...Full ReviewInstalei na intenção de acompanhar os filmes em cartaz e principalmente os próximos lançamentos, apenas para descobrir que não existe tal ferramenta. Marcar os filmes que entrarão em cartaz, como por exemplo, quando ainda um produto encontra-se esgotado o ""avise-me quando chegar"" acredito que cinéfilos como eu, adorariam receber mensagens dos filmes que marcaram previamente quando entrarão em cartaz. E, claro, a taxa de conveniência absurda, uma vez que não utiliza-se papel nem o componente humano na compra fo ingresso. Estou desinstalando."
+425,Rafael Bergamin,"October 29, 2017",1, Não me deixa logar com a mesma senha que uso no site.
+426,Erick Silva,"May 5, 2018",1, Really difficult to buy something
+427,Alexsandro Alves,"October 29, 2017",5," Amei, ficou muito bom esse novo app... Bem intuitivo e elegante... Bem fácil . ❤❤"
+428,May Mendes Viamonte Dutra,"December 18, 2017",5," Os últimos updates melhoraram muito, prático e completo."
+429,Emanuella Ramos Manu,"December 5, 2017",2, a versão anterior era muito mais prática
+430,Tadeu Parodi,"November 3, 2017",2," Lento, cheio de confirmações para cada compra."
+431,L.H. Fanti,"November 18, 2017",2," Agora, não aparece os filmes em cartaz em minha cidade! ,,,🤔"
+432,André Dalcin,"December 10, 2017",5, Ficou show o app!
+433,Vitor Canova,"November 20, 2017",4," Adoro o tema dark do app. Acho muito prático, não preciso nem lembrar os dados do cartão de crédito.  Acho que ele devia ser menos centrado nas cidades, as vezes queria ver um filme e uma outra cidade pra pegar uma sala melhor (tipo IMAX) ou horário melhor e você tem que fazer uma baita volta.  Acho...Full ReviewAdoro o tema dark do app. Acho muito prático, não preciso nem lembrar os dados do cartão de crédito.  Acho que ele devia ser menos centrado nas cidades, as vezes queria ver um filme e uma outra cidade pra pegar uma sala melhor (tipo IMAX) ou horário melhor e você tem que fazer uma baita volta.  Acho que seria legal poder favoritar filmes no ""em breve"". Assim o app poderia me mandar uma notificação quando entrasse em cartaz num cinema próximo a mim."
+434,A Google user,"December 3, 2017",5, Muito intuitivo. Gostei dessa versão.
+435,Monica Willson,"October 28, 2017",5, Prático e confiável.
+436,Carolina Barbosa,"November 4, 2017",5, Aplicativo muito bom.
+437,Gabriel De Arruda Rubin de Lima,"December 12, 2017",5, Muito bom!
+438,Luiza Nascimento,"November 15, 2017",1, Simplesmente não funciona....
+439,Oscar Villalobos,"October 28, 2017",2, Muito ruim
+440,Leandro Medeiros,"December 20, 2017",5, Usabilidade ótima
+441,paulo silva,"December 11, 2017",5, Bom aplicativo
+442,Vinicius Gonçalves,"December 10, 2017",5, Baleia baleia baleia
+443,Rafael Baptista,"November 6, 2017",4, Ok
+444,Jonathan Knopp,"November 4, 2017",4, Ok
+445,Arthur Henrique,"October 30, 2017",5, I'm satisfied
+446,Adalberto Silva,"November 2, 2017",5, It is awesome
+447,Luiz gs,"December 16, 2017",4, Very good
+448,Wesley Djhan,"December 9, 2017",5, Great aps...
+449,Julio Vlasec,"December 14, 2017",5, Awesome
+450,Pedro Juliano,"October 29, 2017",4, Awesome
+451,Gabriel Amato,"October 18, 2017",3," Possuir propaganda em um aplicativo de pagamentos que cobra taxa não tem sentido.  A funcionalidade está fluida e o layout e interface está bem trabalhada.  O tempo de carregamento e validação tem que melhorar e muito! Ainda não tive problemas de erro e travamento. Falta um programa de pontos por co...Full ReviewPossuir propaganda em um aplicativo de pagamentos que cobra taxa não tem sentido.  A funcionalidade está fluida e o layout e interface está bem trabalhada.  O tempo de carregamento e validação tem que melhorar e muito! Ainda não tive problemas de erro e travamento. Falta um programa de pontos por comprar pelo aplicativo, porque as taxas são altas."
+452,Ivo Reis,"September 19, 2017",2, Eu teria vergonha de colocar propaganda em um app onde vendo serviços e ganho dinheiro com taxa de conveniência. Todos os filmes do cinema de São Caetano só mostram horários disponíveis para 2 dias pra  frente. Em SP mostra 9 dias pra frente. Não consegui comprar ingressos para o final de semana.
+453,Z Jr,"October 5, 2017",1, Propaganda em um aplicativo que já me cobra para comprar cada ingresso é simplesmente impensável. Um absurdo.
+454,Alex Vieira Bastos,"October 7, 2017",1," Ad em um serviço que não é gratis, só faltava essa... Vamos ver se prefere ganhar essas misérias  do google ou ter uma boa avaliação na loja"
+455,Lucas C,"October 8, 2017",1," Péssimo aplicativo. O antigo, apesar de ser mais feio, funcionava de forma melhor. Não consegui até hoje comprar um ingresso nesse app, sempre dá uma mensagem de erro, após um bom tempo de espera. Deplorável."
+456,Viviane Silva,"November 30, 2017",1," Que droga, hein? Não quero receber notificações suas com propagandas. Vou ter que desinstalar?  Adendo em 30-11-2017: Vocês se deram ao trabalho de oferecer uma resposta vazia, mas e aí, já dá pra ter o aplicativo no telefone e optar por não receber notificações com propagandas? Não sou só eu reclam...Full ReviewQue droga, hein? Não quero receber notificações suas com propagandas. Vou ter que desinstalar?  Adendo em 30-11-2017: Vocês se deram ao trabalho de oferecer uma resposta vazia, mas e aí, já dá pra ter o aplicativo no telefone e optar por não receber notificações com propagandas? Não sou só eu reclamando, já pagamos a taxa de conveniência, chega de anúncios indesejados!!"
+457,Ricardo Smania,"October 6, 2017",1, Tenho dezenas de cinemas em um raio de 50 km mas o aplicativo só deixa selecionar uma cidade de cada vez.
+458,Rafael Basquens,"October 15, 2017",2," Funcionar até funciona, mas ele cobra uma taxa de conveniência desproporcional. Como não tem concorrente preciso usar ele mesmo. Mesmo assim melhor que o antigo"
+459,Bruno Passos,"October 5, 2017",3," Ter que digitar o código da carteira de estudante é sem sentido. Ninguém olha. E, no meu caso, a meia é por ser professor. Não existe código para digitar."
+460,Elossandro Borges,"October 14, 2017",1," Lixo. Impossível utilizá-lo em BSB hj , 14/10/17. Não pode ser aberto. Ademais, taxas escorchantes. Onde está a Kinopolex que nao disponibiliza um app sem custo ?"
+461,A Google user,"October 18, 2017",2," sempre trava na hora de pagar e aparece msg ""erro inesperado"" é o espaco itau do shopping bourbon pompeia"
+462,Cristovao Albuquerque,"October 16, 2017",1," Não é possível completar a transação (""oops aconteceu um problema""). A rede de cinemas é a Cinemark. Não consigo imaginar como escrever um e-mail resolveria meu problema. Devo esperar algumas semanas para ir ver o filme? Espera, ele já teria saído de cartaz. ""Oops!"""
+463,Alex E,"October 12, 2017",1," Nunca sabia mas cobra extra por comprar no aplicativo.... fui comprar no app e não funcionou, motivo abaixo, e fui comprar na caixa.  Com as mesmas opções de entrada ia ser  40 reais extra usando o app.  Acho que devem deixar isso claro na hora dê comprar quanto extra você vai pagar pelo uso tipo ""t...Full ReviewNunca sabia mas cobra extra por comprar no aplicativo.... fui comprar no app e não funcionou, motivo abaixo, e fui comprar na caixa.  Com as mesmas opções de entrada ia ser  40 reais extra usando o app.  Acho que devem deixar isso claro na hora dê comprar quanto extra você vai pagar pelo uso tipo ""taxa ingresso app R$XX"".  Além disso o aplicativo e uma porcaria... o antigo era ruim e esse continua podre.   Chega no final da compra e te da assentos indisponíveis e cancela tudo que você fez.  Quem criou esse app deve procurar um novo trabalho."
+464,Mayara Shoji,"September 21, 2017",2, Pagamento só funciona com cartão virtual. Pagar utilizando o recurso do aplicativo esta indisponivel a semanas
+465,Victor Naito,"September 30, 2017",5, Interface diferenciada com facilidade nas funções de compra e visualização de pedidos. Parabéns.
+466,Vinicius Alexandre Landaburu da Silva,"September 22, 2017",4," Bom, mas faltou colocar filtro para dublado ou legendado"
+467,Cristiano Monteiro dos Santos,"September 30, 2017",4," Melhorando, estão chegando lá :)"
+468,A Google user,"October 12, 2017",3, Meu cpf nao funcionou para meia entrada
+469,Leo De Nigris Jr,"October 1, 2017",3, Melhor que o último mas continua ruim
+470,Danilo Souza Moraes,"October 19, 2017",4, Lento mas muito bonito e funcionalidades boas
+471,Thomaz Badaró,"November 17, 2017",5, Melhorou significativamente em relação a última versão
+472,Edgar Egidio de Souza,"October 21, 2017",2, Navegação ruim. Precisa melhorar
+473,Bruno Ikeda,"October 8, 2017",1, Horrivel depois da atualizacao
+474,Wanderson Silva,"October 22, 2017",2," Está bonito, principalmente a Activity com os filmes em cartaz; gostei bastante. Entretanto, como desenvolvedor de software e também usuário do app anterior, sinto dizer que não está muito bom. Tive um problema bem desagradável na Activity de confirmação de compra ao acessar as informações da compra...Full ReviewEstá bonito, principalmente a Activity com os filmes em cartaz; gostei bastante. Entretanto, como desenvolvedor de software e também usuário do app anterior, sinto dizer que não está muito bom. Tive um problema bem desagradável na Activity de confirmação de compra ao acessar as informações da compra. Basicamente, ele reinicia o status de todo o processo de compra ao, por exemplo, o usuário ir confirmar os assentos, isso estragou toda a linha experiência como usuário que começou a degradar logo no app anterior quando fui efetuar a compra, mas só após todo o processo de escolha de filme, lugar, sessão e preenchimento de dados do cartão, fui avisado do novo app. Enfim, atente-se a todo o processo de compra, pois muitas vezes o usuário já sabe o que quer e só vai ao app para comprar o ingresso e sair."
+475,Ricardo Lustosa,"September 30, 2017",2, Lento!
+476,BarbadoGamer,"October 13, 2017",5, show
+477,Vítor Parmigiani,"October 13, 2017",5, Great app
+478,Luan LDLima,"September 20, 2017",5, Amazing
+479,MotoG Trevor,"August 20, 2017",2, Um app de um serviço pago não deveria ter propaganda. E ainda por cima não existe uma versão Ad Free. Uma boa ideia arruinada por ter q ganhar dinheiro em tudo. Deveria tirar o valor do app da taxa de serviço. Se vale somente de não haver outros serviços concorrentes.
+480,Samuel Rohr,"August 20, 2017",2, O app estava ótimo até inventarem de meter anúncios pulando na sua cara a cada tela. Como se não bastasse cobrar taxa de serviço ainda vai colocar anúncios dentro do app? Pela amor de Deus
+481,Desireê Siqueira,"September 17, 2017",1," Fora o site não aceitar cartão virtual e ter anúncios que ficam pulando na sua cara, o site durante a sua compra não trava os lugares que você escolheu, assim sendo, você tem que fazer a compra inteira para que o lugar realmente seja seu. É muito burro pois dependendo do tempo que você leva ele canc...Full ReviewFora o site não aceitar cartão virtual e ter anúncios que ficam pulando na sua cara, o site durante a sua compra não trava os lugares que você escolheu, assim sendo, você tem que fazer a compra inteira para que o lugar realmente seja seu. É muito burro pois dependendo do tempo que você leva ele cancela sua compra e faz você ter que repetir todo o processo de novo."
+482,Bruno Moreira Cestari,"September 16, 2017",2," O aplicativo não aceita cartão virtual. Quando tentei usar o Paypal para efetuar o pagamento, a compra não pôde ser concluída. Na sequência, recebi um sms do Paypal perguntando se eu havia tentado realizar uma compra. O estranho foi que o valor informado da tentativa da compra era superior ao valor ...Full ReviewO aplicativo não aceita cartão virtual. Quando tentei usar o Paypal para efetuar o pagamento, a compra não pôde ser concluída. Na sequência, recebi um sms do Paypal perguntando se eu havia tentado realizar uma compra. O estranho foi que o valor informado da tentativa da compra era superior ao valor real....."
+483,Vitor Falcao,"August 18, 2017",2, Propaganda de jogo mobile em um app desse é sacanagem
+484,A Google user,"September 17, 2017",1," Horrível. O aplicativo anterior era rápido e simples de usar. Esse é ridiculamente pesado e fica colocando anúncios na sua cara sem parar. Você já paga taxa de conveniência e ainda tem que ver anúncios? Pelo amor de deus. Pra que mexer em time que tá ganhando? Eu nunca escrevi uma review na minha vi...Full ReviewHorrível. O aplicativo anterior era rápido e simples de usar. Esse é ridiculamente pesado e fica colocando anúncios na sua cara sem parar. Você já paga taxa de conveniência e ainda tem que ver anúncios? Pelo amor de deus. Pra que mexer em time que tá ganhando? Eu nunca escrevi uma review na minha vida, mas esse aplicativo mereceu um esculacho. Revertam pra versão antiga."
+485,Vitor Teixeira,"August 26, 2017",2," Pior que a versão anterior. Eu estava no meio da compra, faltava só clicar em pagar. Tive q abrir outro aplicativo. Qnd voltei, simplesmente perdeu tudo. Até o cartão q eu tinha mandado salvar."
+486,Cedric Pin,"August 23, 2017",1, Moro no centrão de Brasília e tenho uma conexão 4g top. O aplicativo levava uns 5 minutos para carregar na versão antiga. Na nova versão ao invés de tornarem mais leve agora leva uns 10 minutos para carregar. É mais rápido eu ir no próprio local do cinema do que comprar aqui. Só uso o app para consu...Full ReviewMoro no centrão de Brasília e tenho uma conexão 4g top. O aplicativo levava uns 5 minutos para carregar na versão antiga. Na nova versão ao invés de tornarem mais leve agora leva uns 10 minutos para carregar. É mais rápido eu ir no próprio local do cinema do que comprar aqui. Só uso o app para consulta qua do estou na wifi. Não vale a pena comprar nada: pagar a tarifa de emissão cheia para CADA ingresso é uma das palhaçadas com o consumidor trouxa.
+487,Mauricio,"September 16, 2017",1, Ruim marquei o assento e no final não estava mais disponível. Precisei digitar tudo novamente. O app anterior era melhor a navegação
+488,Diego Queiroz,"August 19, 2017",1, Muitos passos e muito difícil de realizar a compra. Isso sem falar que a taxa de conveniência é muito cara. Só uso pq não tem remédio.
+489,Daniel Pereira,"August 26, 2017",4," Melhorou muito após atualização. Bastante rápido e inteligível, apresenta uma interface amigável, com informações suficientes para entender o processo de compra."
+490,Alexandre Barreto Moreira da Costa,"August 21, 2017",3," Em geral aplicativo é bom.  Só falta adicionar na busca por filme opção de filtragem por tipo de seção e filtragem para dublado ou legendado. Talvez possam adicionar em preferências no cadastro, assim listando seções em ordem alfabética, primeiro nossa preferência (exemplo: todas seções para o filme...Full ReviewEm geral aplicativo é bom.  Só falta adicionar na busca por filme opção de filtragem por tipo de seção e filtragem para dublado ou legendado. Talvez possam adicionar em preferências no cadastro, assim listando seções em ordem alfabética, primeiro nossa preferência (exemplo: todas seções para o filme de nossa escolha legendado) e em seguida todas seções dubladas."
+491,Diego Mendonça,"September 7, 2017",1," Experiência de compra péssima, reservamos os lugares e quando vamos pagar diz que não está mais disponível, uma verdadeira tragédia como aplicativo e como empresa, toda vez que vai comprar é um problema, nunca funciona como deveria, ou seja simples"
+492,Michel F&F Administradora,"September 9, 2017",4, A versão antiga era muito melhor. Menos firulas e mais clean
+493,Eric,"September 17, 2017",1, Cobra taxas altas e ainda tem propagandas intrusivas
+494,Gabriel Campos,"August 19, 2017",5, Uma melhoria significativa em termos de design e funcionalidade em comparação ao app anterior.
+495,Antônio Guilherme Ferreira Viggiano,"August 25, 2017",1, Os anúncios estragaram a experiência do app.
+496,Ike Neves,"September 1, 2017",1, UM LIXO!
+497,Aline Neves,"September 7, 2017",3, Nao curti ter cobrado taxa de conveniencia.
+498,Marcelo Brisac,"September 2, 2017",2, Piorou muito o pagamento. Não aceita cartões virtuais.
+499,Lara Belitardo,"August 12, 2017",5, Muito bom e fácil de usar!
+500,A Google user,"August 12, 2017",2, Muito pior que a versão  anterior.
+501,Matheus Araujo Fernandes,"September 14, 2017",5," Great app, beautiful skin, fast and useful."
+502,Matheus Müller,"August 11, 2017",5, Very good app.
+503,Mariana Costa Queiroz,"July 12, 2017",1," Depois da última atualização simplesmente parou de funcionar.  E pior,  dá mensagem de erro na hora de confirmar a compra. No entanto,  o cartão me envia mensagem de que foi feito o débito. Resultado: fico frustrada, sem ingresso e sem saber se ainda me cobraram indevidamente por isso.  Uma porcaria...Full ReviewDepois da última atualização simplesmente parou de funcionar.  E pior,  dá mensagem de erro na hora de confirmar a compra. No entanto,  o cartão me envia mensagem de que foi feito o débito. Resultado: fico frustrada, sem ingresso e sem saber se ainda me cobraram indevidamente por isso.  Uma porcaria!"
+504,Leonardo Brandão Gonçalves,"July 28, 2017",1," O app ficou bonito, mas é impossível finalizar uma compra. Depois que aperto em pagar, fica carregando e dá erro de comunicação."
+505,Rafael Baratella,"July 29, 2017",1," Um teste de paciência comprar tanto pelo aplicativo quanto pelo site. Nunca dá certo, cada dia um tipo de erro diferente."
+506,Demétrio Dias Nicolaidis,"August 2, 2017",2," Achei que teria mais sorte na compra de ingresso pro cinema pelo app, já que pelo site mobile só dava erro. Não funcionou. De que serve? Vou ter que achar um computador pra usar na compra. Torço os dedos."
+507,Rodrigo Souza Henriques,"July 22, 2017",1, Muito chato quando vc chega ao final do processo de compra e os assentos não estão mais disponíveis. Poderiam experimentar fazer uma espécie de Lock no ingresso durante a compra ou talvez disponibilizar uma forma de tentar novamente apenas trocando os assentos e mantendo todos os outros dados já pre...Full ReviewMuito chato quando vc chega ao final do processo de compra e os assentos não estão mais disponíveis. Poderiam experimentar fazer uma espécie de Lock no ingresso durante a compra ou talvez disponibilizar uma forma de tentar novamente apenas trocando os assentos e mantendo todos os outros dados já preenchidos.
+508,Magno Sousa,"July 28, 2017",3," Buga muito na hora de fechar a compra, da erro e tem q comecar tudo novamente e ai vc perdeu o lugar."
+509,A Google user,"July 16, 2017",1," Não dá pra filtrar por tipo (legendado, dublado, 3d, 4d, etc)"
+510,André Manso Bittencourt,"July 22, 2017",5," App perfeito. Muito prático, inteligente e intuitivo. Vale muito a pena. Sempre compro ingressos por aqui."
+511,Wiqui,"July 26, 2017",3, Não consigo pagar com desconto desponibilizado pelo meu banco o Next!
+512,Henrique Borges,"July 23, 2017",1, A função de selecionar os cinemas da cidade não funciona.
+513,Felipe Lauksas,"August 6, 2017",4, Seria melhor se tivesse filtro para sessões dubladas e legendadas
+514,Rafael Teixeira Lima,"July 22, 2017",5," Muito bom , agora esta aceitando ate a bandeira elo , sem criticas a nova interface , curti ...👏👏👏"
+515,Eduardo Garcia,"September 8, 2017",5, Melhorou muito em relação ao app anterior.
+516,Victor Carvalho,"July 19, 2017",1," Muito ruim, continuem com o antigo."
+517,A Google user,"July 30, 2017",4, Muito fácil de usar adorei
+518,A Google user,"July 24, 2017",1, App nunca funciona!!! Péssima atualização
+519,Andre Felippa,"July 16, 2017",1," Péssimo, nunca funciona"
+520,Thiago Bouzan,"August 2, 2017",5, muito bom!
+521,Jennifer dos Santos,"July 26, 2017",5, É amazing!
+522,Henrique Góes,"July 5, 2017",2," Toda vez que tento comprar um ingresso para uma sessão sempre aparece ""Erro Inesperado"" ao finalizar a compra. Queria comprar hoje para pré-estreia de homem aranha e vou perder porque a bosta do app e do site estão recebendo o mesmo erro ao finalizar"
+523,Giovani Rigon,"July 6, 2017",1," Depois da atualização para o novo app os cinemas deixaram de aceitar o código pelo celular aqui em Brasília, tendo que apresentar na fila de compras para retirar o papel. Perdeu todo o sentido do app que era evitar as filas do cinema."
+524,Gabriel Cruz,"July 7, 2017",1," Utilizava o aplicativo anterior semanalmente e quase nunca tive problemas. A versão atual (que só passei a usar porque não conseguia mais comprar meia vivo pelo antigo) piorou bastante em performance / velocidade, intuitividade e quantidade de erros."
+525,Gilmar Freitas,"July 5, 2017",3, Acho que podiam melhorar um pouco as opcoes de escolha dos filmes. Muit9 dificil achar o filme e o cinema
+526,Pedro Venturini,"December 12, 2019",2," Aplicativo com experiência ok, é meio trancado mesmo em um celular bom. Seria interessante poder marcar os filmes que você já assistiu e os que não tem interesse. O pior de tudo é o fato do aplicativo ter propagandas mesmo cobrando uma taxa, falta de consideração com o usuário..."
+527,Rodolfo Rodrigues,"July 9, 2017",1," Esse app é péssimo. Após a atualização, não abre mais o carrinho para escolher o ingresso.A tela simplesmente fica escura."
+528,Carlos Calderon,"July 8, 2017",2, Usabilidade do app pior do que a versão anterior para escolha dos filmes e do cinema.
+529,Victor Mendes Eduardo,"July 7, 2017",2," O processo de seleção de filmes e cinemas é muito bom e bonito, porém o fluxo de pagamento é doloroso por requerer muitos cliques, principalmente quando usando Visa checkout. Tive problemas com erros na hora de confirmar uma compra que geraram cobranças (futuramente canceladas automaticamente) mas s...Full ReviewO processo de seleção de filmes e cinemas é muito bom e bonito, porém o fluxo de pagamento é doloroso por requerer muitos cliques, principalmente quando usando Visa checkout. Tive problemas com erros na hora de confirmar uma compra que geraram cobranças (futuramente canceladas automaticamente) mas sem a confirmação do ingresso. Espero que o aplicativo evolua e se torne mais confortável e confiável."
+530,Pedro Henrique,"July 9, 2017",5, Sempre que preciso comprar um ingressos eu consigo. Nunca deu problemas
+531,Mario Sergio,"July 11, 2017",5, App otimo de se usar e muito facil nao complica as coisas. Aprovado.
+532,Vinicius Gabriel,"July 8, 2017",5, The new app looks pretty good!
+533,Caio Bomani Carromeu,"July 2, 2017",3, Permitir que se efetue filtros de horários e idiomas (dublado/legendado)
+534,Vitus F.,"July 1, 2017",1, Ao tentar cadastrar o cartão me barrar com erro do validade do cartão. Só que não eh errado. Fazer o que... Neh? O versão anterior era BEM melhor.
+535,A Google user,"July 2, 2017",5, Amo comprar pelo app
+536,A Google user,"July 2, 2017",3, Muito lerdo
+537,rodrigo barletta,"June 18, 2017",1," Uma porcaria tiraram um aplicativo funcionando e agora só da um ""ops erro inesperado""  como se falar ops fosse cool cool é não dar erro"
+538,Anderson Lima,"June 22, 2017",1," Erro primário, provavelmente trocaram o Packege ID, assim o app aparece como um novo aplicativo não como atualização do antigo. O novo aplicativo está pior que o antigo, simplesmente não funciona. Não dá feedbacks​ quanto a problemas. Lamentável uma empresa desse porte, com um serviço tão importante...Full ReviewErro primário, provavelmente trocaram o Packege ID, assim o app aparece como um novo aplicativo não como atualização do antigo. O novo aplicativo está pior que o antigo, simplesmente não funciona. Não dá feedbacks​ quanto a problemas. Lamentável uma empresa desse porte, com um serviço tão importante, não investir num aplicativo no mínimo ""razoável""."
+539,Diego Mesquita,"June 17, 2017",2, Não mostra os filmes de Pindamonhangaba-SP mais.
+540,Rodrigo Hahn,"June 20, 2017",2," Bem pior de usar q o anterior. É bonito, e só. E me apareceram propagandas da VIVO dentro do app... Ainda bem que perderam o packageId, pois assim ainda consigo usar o antigo. É muito ruim um app de conveniência reiniciar quando se faz multitask pra copiar e colar. Tem que testar mais antes de liber...Full ReviewBem pior de usar q o anterior. É bonito, e só. E me apareceram propagandas da VIVO dentro do app... Ainda bem que perderam o packageId, pois assim ainda consigo usar o antigo. É muito ruim um app de conveniência reiniciar quando se faz multitask pra copiar e colar. Tem que testar mais antes de liberar essas coisas. E as respostas estilo copy/paste aqui nas avaliações dão a impressão de que a empresa que desenvolveu não se importa. Uma pena, pois gostava bastante do aplicativo/serviço como estava."
+541,Rômulo Oliveira,"June 15, 2017",2, Slowly
+542,Lucas Motta,"June 12, 2017",5," Achei bem melhor que a versão antiga e funciona direitinho comigo. Um dia a gente consegue de repente ""pagar a taxa"" assistindo trailer no aplicativo."
+543,Felipe Araujo,"June 7, 2017",1, Mostrar propagandas em um App que já cobra uma taxa caríssima de convivência é realmente um absurdo! Parece que querem forçar a gente a não usar o serviço
+544,denis yoshida,"June 6, 2017",1, O aplicativo merece a nota baixa e péssimo não vale a pena instalar comprem pelo site. Não é bom mas é muito melhor que o aplicativo
+545,renato mendes,"June 11, 2017",1, Uma bosta! Pior que o antigo que já não funcionava direto. Não da para completar as compras. Só da erro de comunicação. Um lixo!
+546,Rosana Ramos,"June 3, 2017",1, Não estou conseguindo comprar com este aplicativo....estou com muito ódio.
+547,Anderson Santos,"May 30, 2017",5," Rapido, simples e direto."
+548,João Victor Lima de Souza,"May 26, 2017",5, Excelente app
+549,Rodrigo Morais,"April 30, 2017",1," Aplicativo muito ruim, fez os lançamentos no meu cartão e ao mesmo tempo disse q houve problema na compra. O cadastro dos dados tive que informar duas vezes pois não salvou os dados"
+550,Leocadio Tiné,"May 7, 2017",1," Não funciona multi-task: se precisar sair do App pra copiar e colar alguma coisa, tem que reiniciar a compra.   Não mostra todos os qr codes de todos os ingressos no App, só o primeiro."
+551,Giuliano Sant'Ana,"May 1, 2017",1, Aplicativo anterior funcionou bem por anos. Como que substitui por um que não funciona? Cliente fica sem poder comprar? O cinema que eu frequento é apresentado com NENHUMA sessão disponível pra qqer filme. Como é possível? Descaso!
+552,Nilton Braga,"May 10, 2017",4," O novo design é muito bonito, mas não há mais como favoritar os cinemas onde vou mais. Na versão anterior eles ficavam no início da lista, sempre, facilitando muito a busca."
+553,Carlos Morgon,"April 30, 2017",1, Não está funcionando a busca pelos cinemas está bem pior que dó app antigo e sem contar a demora pra abir as coisa sisteminha ruim em tá pessimo
+554,Norberto Policarpo,"April 27, 2017",2," Ficou bem mais demorado encontrar  um cinema, sem opções de busca e filtros, que existiam no app anterior, foram de cavalo pra burro ! 😫"
+555,A Google user,"May 10, 2017",1," A nova navegação ficou bem ruim. O carrinho não funciona, fica carregando o tempo todo."
+556,Hamilton de Mattos Cardoso,"May 1, 2017",1," Péssimo app. Não funciona, é inseguro, não finaliza após a cobrança. Como não finaliza, tomem cuidado para não efetuarem pagamentos em duplicidade."
+557,Thiago Soares,"May 26, 2017",4," O aplicativo tem melhorado constantemente, mas ainda falta atualização automática de local. Viajo constantemente e ter que ficar trocando manualmente de localização toda vez acaba se tornando cansativo."
+558,Ronald Bulbow,"April 25, 2017",4," Na versão anterior do aplicativo, era possível salvar os dados do cartão de crédito para efetuar o pagamento. Existe previsão para incluir esta opção na versão nova?"
+559,Marina Galvão,"April 30, 2017",3," Ficou bonito, mas menos funcional. Só peço que voltem a funcionalidade de salvar cinemas como favoritos."
+560,Michel Lent Schwartzman,"May 22, 2017",2," Infinitamente melhor que a versão anterior, mas não guarda o número de cartão de crédito, o que torna a experiência péssima. Aguardando ansiosamente o update onde isso vai estar resolvido"
+561,Leonardo Ribeiro,"May 21, 2017",1," Antes era bem mais fácil de mexer, ficou horrível. Espero que voltem pra como era antes."
+562,Chanrley Ferreira,"June 6, 2017",2, Trava pra resetar a senha
+563,Raphael Santos,"May 1, 2017",5," Less ads would be even better, but loved it"
+564,Fabio Jacob,"May 15, 2017",1, Lento
+565,Lucas Colonna,"April 16, 2017",4," Muito melhor, até que enfim temos um apoio com design falta a opção de colocar cinema como favoritos. Precisa de mais cinemas aceitando o passbook, a taxa de conveniência é alta para ter que ficar pegando fila"
+566,Krishan Wintruff Weise,"April 19, 2017",2," Bonito, mas perde muitas funções básicas e é muito mais lento sem motivo aparente."
+567,Danilo Fontenele,"April 16, 2017",5, Excelente. Mas tive que desinstalar o antigo para instalar este. A atualização poderia ter sido automática.
+568,Bruno,"April 24, 2017",2, Não gostei do fato que não salva a informação do cartão. Desgosto de ter que colocar o número do cartão toda hora que vou comprar um ingresso. O fato que não dá para pesquisar o nome do filme também não é bom. Gostaria também de poder ter cinemas favoritos como no aplicativo anterior. Espero ver as ...Full ReviewNão gostei do fato que não salva a informação do cartão. Desgosto de ter que colocar o número do cartão toda hora que vou comprar um ingresso. O fato que não dá para pesquisar o nome do filme também não é bom. Gostaria também de poder ter cinemas favoritos como no aplicativo anterior. Espero ver as modificações num update. Não estou reclamando apenas dando sugestões para a melhora do aplicativo.
+569,A Google user,"April 18, 2017",2," Não deixa mais marcar determinados cinemas como favoritos!! O app anterior incluía pecas de teatro, além de cinema."
+570,Alisson Birck,"April 25, 2017",5, Tanto o site quanto o aplicativo melhoraram em 300%. Ficou realmente muito bom. Muito mais bonito e funcional. Parabéns!
+571,GutoAppolo,"April 16, 2017",5," Finalmente resolveram reformular o app e o site, agora eles funcionam apropriadamente."
+572,Roberto Almeida,"April 23, 2017",4, Melhorou muito. Mas precisa deixar adicionar cinema favorito. Para mostrar sempre no topo.
+573,Rafael Zanella,"April 18, 2017",1," O CAPTCHA não funciona, impossibilitando o acesso após errar a senha 3x"
+574,jhonnyfive,"April 12, 2017",2, Na tela do carrinho para escolher os lugares nada aparece e trava muito
+575,Alexandre Oliveira,"September 20, 2017",2," Comi desenvolvedor de aplicativos e usuário não sei qual a lógica de propaganda em algo q não é de graça, tira totalmente a credibilidade do APP e prejudica o uso.."
+576,Luziel Souza,"October 9, 2019",1," Usei há muito tempo atrás via desktop, via app não faz login, mal desenvolvido, todo esse tempo no mercado e ainda não conseguiram entregar uma app dentro dos padrões básicos de usabilidade."
+577,flor de liz,"August 5, 2019",1," o app parou de funcionar já faz mais de um mês e não aparece nada da minha cidade nele, não consigo ver os filmes nem nada"
+578,Camilo Antonio Camara do Patrocinio,"April 30, 2017",2," O antigo app vai fechar? Vão manter? Esse só tá com visual bonito, porém o anterior era mt mais funcional."
+579,Thiago Torres,"February 16, 2020",1," Difícil lembrar de um App pior. Nao atualiza as cadeiras vendidas e quando vc vai comprar, na última etapa da compra, vc recebe a mensagem de que a cadeira não está mais disponível. Isso acontece em 90% das vezes. Muito mal feito, uma vergonha."
+580,Marcella Magda,"April 6, 2019",3, quando quero trocar a forma de pagamento durante o fechamento da compra tenno que cancelar o ingresso solicitado e selecionar tudo de novo
+581,A Google user,"December 26, 2017",1, Sempre dando erro. Vc reserva o assento não consegue pagar e ele aparece vendido por 10 minutos sem estar.
+582,Leandro Noronha,"September 6, 2017",1, Trava demais.....muitos erros.....quando chega AO fim não tem mais os lugares que havia escolhido....tem que começar td de novo
+583,Roh Huldson,"April 29, 2019",1," Não presa pela satisfação do clinte, não vale a pena comprar por esse meio"
+584,Gustavo Miranda,"April 25, 2017",1," App fraco e com taxas absurdas de de tão altas, não sei como se sustentam"
+585,bruna mrt,"June 30, 2018",1," Toda hora da erro, só não desinstalo pq já foi melhor e tenho esperança de 
+melhorar. App tá horrível!!!!!!!!"
+586,Giovanna R.,"May 28, 2017",2, Serve bem para ver os horários já para compras não é bom.
+587,Jone Oliveira,"April 28, 2018",1," Lamentável, aplicativo super pesado, lento, nada funciona direito. Pura 
+perda de tempo ter baixado"
+588,leo Meira,"October 4, 2019",1, So aceita pagamento com cartao de credito...pelo jeito ta faltando concorrencia
+589,João Miguel Brites,"August 27, 2019",5," App sensacional, facilita muito o processo de compra de ingressos"
+590,Fernando Nando,"January 17, 2019",5, muito ruim ele demora muito pra carregar mesmo com a internet boa
+591,Nuno F.,"June 17, 2017",3, Não identifica a sala IMAX em Belo Horizonte
+592,Victor Bassetto,"September 24, 2017",1, O antigo era bem melhor
+593,Thiago Cordeiro,"May 17, 2019",5," Incrivelmente útil, suporte excelente, adoro!!!"
+594,Gabriel Menezes Mindfulness,"November 26, 2017",1, Worst update as ever
+595,Rafael Clemente,"April 23, 2019",1, Simplesmente não funciona.
+596,André Paiva,"January 21, 2019",5, Very good
