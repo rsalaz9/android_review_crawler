@@ -34,9 +34,16 @@ for d in range(len(data)):
     overall_rating = overall_and_number.split()[0].replace(',', '')
     number_of_ratings = overall_and_number.split()[1]
 
-    if any(c.isalpha() for c in number_of_ratings):
-        number_of_ratings = number_of_ratings.replace('K', '')
-        number_of_ratings = float(number_of_ratings) * 1000
+    for c in number_of_ratings:
+        print(c)
+        if c.isalpha():
+            if c == 'K':
+                number_of_ratings = number_of_ratings.replace('K', '')
+                number_of_ratings = float(number_of_ratings)*1000
+
+            if c == 'M':
+                number_of_ratings = number_of_ratings.replace('M', '')
+                number_of_ratings = float(number_of_ratings)*1000000
 
     category_parent = soup_expatistan.find("h2", class_="section__headline", text="Information").find_parent('div')
     category = category_parent.find_next("a").text.strip()
