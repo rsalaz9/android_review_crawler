@@ -10,7 +10,7 @@ import re
 browser = webdriver.Chrome(executable_path=r"C:\Users\Parth\Documents\540\android_review_crawler\ios_Xamarin_and_React_apps_reviews\chromedriver.exe")
 ## change path depending if its native or framework
 # path = "./Native_ios_apps_reviews"
-path = "./ios_Xamarin_and_React_apps_reviews"
+path = "C:\\Users\\Parth\\Documents\\540\\android_review_crawler\\ios_Xamarin_and_React_apps_reviews"
 # Tell Selenium to get the URL you're interested in.
 
 data = pd.read_csv("apps data.csv", index_col=False)
